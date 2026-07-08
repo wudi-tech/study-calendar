@@ -45,17 +45,6 @@ DESCRIPTION:直播写作强化1。讲义配套：Task 1 趋势图，重
 CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
-UID:2cc02a9335a20a6e@ielts-german-plan.local
-DTSTAMP:20260708T000000Z
-DTSTART;TZID=Asia/Shanghai:20260708T123000
-DTEND;TZID=Asia/Shanghai:20260708T133000
-SUMMARY:动态补做：昨日遗留任务
-DESCRIPTION:动态调整生成。原则：只补最关键欠账，不牺
- 牲当天固定课程。\\n昨日未完成，今天只补最关键项：\
- n- 08:00-10:00 直播听力强化1\n- 10:15-12:15 直播口语强化2
-CATEGORIES:IELTS
-END:VEVENT
-BEGIN:VEVENT
 UID:ab306ae0b5eaf457@ielts-german-plan.local
 DTSTAMP:20260708T000000Z
 DTSTART;TZID=Asia/Shanghai:20260708T143000
@@ -117,6 +106,18 @@ SUMMARY:直播阅读强化1
 DESCRIPTION:直播阅读强化1。讲义配套：信息检索、传统定
  位、scan。
 CATEGORIES:IELTS
+END:VEVENT
+BEGIN:VEVENT
+UID:02d07405e3628427@ielts-german-plan.local
+DTSTAMP:20260709T000000Z
+DTSTART;TZID=Asia/Shanghai:20260709T123000
+DTEND;TZID=Asia/Shanghai:20260709T133000
+SUMMARY:动态补做：昨日遗留任务
+DESCRIPTION:动态调整生成。原则：只补最关键欠账，不牺
+ 牲当天固定课程。\\n昨日未完成，今天只补最关键项：\
+ n- 08:00-10:00 直播写作强化1\n- 16:00-17:20 德语主任务块：A2
+ 复习：sein/haben、规则动词现在时
+CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
 UID:8ad618ff6576906b@ielts-german-plan.local
