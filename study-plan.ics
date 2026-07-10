@@ -157,25 +157,25 @@ DESCRIPTION:雅思口语诊断1。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
-UID:6e325fb93cd3ef65@ielts-german-plan.local
+UID:2c0deac872e81944@ielts-german-plan.local
 DTSTAMP:20260710T000000Z
 DTSTART;TZID=Asia/Shanghai:20260710T150000
-DTEND;TZID=Asia/Shanghai:20260710T160000
-SUMMARY:德语主任务块：A2复习Akkusativ宾格，含15个德语新
+DTEND;TZID=Asia/Shanghai:20260710T161500
+SUMMARY:德语主任务块：A2复习Akkusativ宾格，含20个德语新
  词
-DESCRIPTION:德语主任务块：A2复习Akkusativ宾格，含15个德语
+DESCRIPTION:德语主任务块：A2复习Akkusativ宾格，含20个德语
  新词。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:e4ce4b0220b244b8@ielts-german-plan.local
+UID:269fdc142892f48c@ielts-german-plan.local
 DTSTAMP:20260710T000000Z
-DTSTART;TZID=Asia/Shanghai:20260710T161000
-DTEND;TZID=Asia/Shanghai:20260710T163000
+DTSTART;TZID=Asia/Shanghai:20260710T162500
+DTEND;TZID=Asia/Shanghai:20260710T165500
 SUMMARY:老师额外作业：写作作业：Task 1 开头段和概述段
  练习
 DESCRIPTION:微信群作业：写作作业：Task 1 开头段和概述段
- 练习\n截止：2026-07-11 20:00\n本次：20分钟；总预计：45分
+ 练习\n截止：2026-07-11 20:00\n本次：30分钟；总预计：45分
  钟\n优先级：high\n原文：截图来源：7.9 写作课消息。今
  天上午8:00写作课板书笔记：小作文评分标准有利得分点
  ，趋势图开头段/概述段具体语言和思路。课下额外拓展
@@ -185,14 +185,14 @@ DESCRIPTION:微信群作业：写作作业：Task 1 开头段和概述段
 CATEGORIES:Homework
 END:VEVENT
 BEGIN:VEVENT
-UID:ec60f7aa1004145b@ielts-german-plan.local
+UID:9d5db68ca86091a0@ielts-german-plan.local
 DTSTAMP:20260710T000000Z
 DTSTART;TZID=Asia/Shanghai:20260710T193000
-DTEND;TZID=Asia/Shanghai:20260710T195500
+DTEND;TZID=Asia/Shanghai:20260710T194500
 SUMMARY:老师额外作业：写作作业：Task 1 开头段和概述段
  练习
 DESCRIPTION:微信群作业：写作作业：Task 1 开头段和概述段
- 练习\n截止：2026-07-11 20:00\n本次：25分钟；总预计：45分
+ 练习\n截止：2026-07-11 20:00\n本次：15分钟；总预计：45分
  钟\n优先级：high\n原文：截图来源：7.9 写作课消息。今
  天上午8:00写作课板书笔记：小作文评分标准有利得分点
  ，趋势图开头段/概述段具体语言和思路。课下额外拓展
@@ -202,10 +202,10 @@ DESCRIPTION:微信群作业：写作作业：Task 1 开头段和概述段
 CATEGORIES:Homework
 END:VEVENT
 BEGIN:VEVENT
-UID:6ccb1ce964a61cd6@ielts-german-plan.local
+UID:b91ae72a400783c2@ielts-german-plan.local
 DTSTAMP:20260710T000000Z
-DTSTART;TZID=Asia/Shanghai:20260710T195500
-DTEND;TZID=Asia/Shanghai:20260710T203000
+DTSTART;TZID=Asia/Shanghai:20260710T194500
+DTEND;TZID=Asia/Shanghai:20260710T202000
 SUMMARY:老师额外作业：写作作业：3个重点复杂结构句子
  翻译
 DESCRIPTION:微信群作业：写作作业：3个重点复杂结构句子
@@ -216,14 +216,14 @@ DESCRIPTION:微信群作业：写作作业：3个重点复杂结构句子
 CATEGORIES:Homework
 END:VEVENT
 BEGIN:VEVENT
-UID:5c84e6d23d25373e@ielts-german-plan.local
+UID:215cdda5c5154487@ielts-german-plan.local
 DTSTAMP:20260710T000000Z
-DTSTART;TZID=Asia/Shanghai:20260710T203000
+DTSTART;TZID=Asia/Shanghai:20260710T202000
 DTEND;TZID=Asia/Shanghai:20260710T204000
 SUMMARY:老师额外作业：听力作业：整理课堂练习生词并
  准备下节课听写
 DESCRIPTION:微信群作业：听力作业：整理课堂练习生词并
- 准备下节课听写\n截止：2026-07-14 20:00\n本次：10分钟；总
+ 准备下节课听写\n截止：2026-07-14 20:00\n本次：20分钟；总
  预计：35分钟\n优先级：high\n原文：截图来源：7.7 雅思
  听力强化课1作业。整理课堂练习生词，准备下节课听写
  ；课堂讲义 C9T2P1 词汇 PDF 文件见群，下次课上抽查，报
@@ -259,20 +259,20 @@ DESCRIPTION:直播写作强化2。讲义配套：Task 1 静态图、数
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
-UID:3ce874c65bab91fb@ielts-german-plan.local
+UID:9b80598e65d32a05@ielts-german-plan.local
 DTSTAMP:20260711T000000Z
 DTSTART;TZID=Asia/Shanghai:20260711T160000
-DTEND;TZID=Asia/Shanghai:20260711T170000
+DTEND;TZID=Asia/Shanghai:20260711T171500
 SUMMARY:德语主任务块：A2复习：Dativ 与常见三格动词
 DESCRIPTION:德语主任务块：A2复习：Dativ 与常见三格动词
  。（含白天新词学习；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:e30b51ed0d04d0fe@ielts-german-plan.local
+UID:18b5bb6c06983a81@ielts-german-plan.local
 DTSTAMP:20260711T000000Z
-DTSTART;TZID=Asia/Shanghai:20260711T171000
-DTEND;TZID=Asia/Shanghai:20260711T172500
+DTSTART;TZID=Asia/Shanghai:20260711T172500
+DTEND;TZID=Asia/Shanghai:20260711T174000
 SUMMARY:老师额外作业：听力作业：整理课堂练习生词并
  准备下节课听写
 DESCRIPTION:微信群作业：听力作业：整理课堂练习生词并
@@ -284,29 +284,32 @@ DESCRIPTION:微信群作业：听力作业：整理课堂练习生词并
 CATEGORIES:Homework
 END:VEVENT
 BEGIN:VEVENT
-UID:0739df79fe69e10a@ielts-german-plan.local
+UID:96a9d4c4c925774f@ielts-german-plan.local
 DTSTAMP:20260711T000000Z
-DTSTART;TZID=Asia/Shanghai:20260711T193000
-DTEND;TZID=Asia/Shanghai:20260711T194000
-SUMMARY:老师额外作业：听力作业：整理课堂练习生词并
- 准备下节课听写
-DESCRIPTION:微信群作业：听力作业：整理课堂练习生词并
- 准备下节课听写\n截止：2026-07-14 20:00\n本次：10分钟；总
- 预计：35分钟\n优先级：high\n原文：截图来源：7.7 雅思
- 听力强化课1作业。整理课堂练习生词，准备下节课听写
- ；课堂讲义 C9T2P1 词汇 PDF 文件见群，下次课上抽查，报
- 英文说中英文。
+DTSTART;TZID=Asia/Shanghai:20260711T174000
+DTEND;TZID=Asia/Shanghai:20260711T175500
+SUMMARY:老师额外作业：听力作业：C14T1P1 + C15T4P1 完成并
+ 按要求复盘
+DESCRIPTION:微信群作业：听力作业：C14T1P1 + C15T4P1 完成并
+ 按要求复盘\n截止：2026-07-14 20:00\n本次：15分钟；总预计
+ ：100分钟\n优先级：high\n原文：截图来源：7.7 雅思听力
+ 强化课1作业。完成剑桥雅思真题练习 C14T1P1、C15T4P1（作
+ 业讲义）。听前按方法读题，不提前查生词；一听后若
+ 不确定较多，不对答案，回听全文，再比对两次答案；
+ 整理错题与词汇，错的要分析，错的改对的也要分析。
+ 音频、答案、原文见新东方雅思PRO或 https://liuxue.koolearn.
+ com/ielts/listen/ 。
 CATEGORIES:Homework
 END:VEVENT
 BEGIN:VEVENT
-UID:b13b1466d5a1ebf1@ielts-german-plan.local
+UID:e4a4cba0a5177336@ielts-german-plan.local
 DTSTAMP:20260711T000000Z
-DTSTART;TZID=Asia/Shanghai:20260711T194000
+DTSTART;TZID=Asia/Shanghai:20260711T193000
 DTEND;TZID=Asia/Shanghai:20260711T204000
 SUMMARY:老师额外作业：听力作业：C14T1P1 + C15T4P1 完成并
  按要求复盘
 DESCRIPTION:微信群作业：听力作业：C14T1P1 + C15T4P1 完成并
- 按要求复盘\n截止：2026-07-14 20:00\n本次：60分钟；总预计
+ 按要求复盘\n截止：2026-07-14 20:00\n本次：70分钟；总预计
  ：100分钟\n优先级：high\n原文：截图来源：7.7 雅思听力
  强化课1作业。完成剑桥雅思真题练习 C14T1P1、C15T4P1（作
  业讲义）。听前按方法读题，不提前查生词；一听后若
@@ -377,24 +380,24 @@ DESCRIPTION:APS周任务：核对APS/TestAS适用路径、材料状态，
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:ed32fa1ba5f592a7@ielts-german-plan.local
+UID:5c5153845e6c16be@ielts-german-plan.local
 DTSTAMP:20260713T000000Z
 DTSTART;TZID=Asia/Shanghai:20260713T160000
-DTEND;TZID=Asia/Shanghai:20260713T170000
+DTEND;TZID=Asia/Shanghai:20260713T171500
 SUMMARY:德语主任务块：复习 Perfekt
 DESCRIPTION:德语主任务块：复习 Perfekt。（含白天新词学
  习；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:4cfb637aa49d72f2@ielts-german-plan.local
+UID:9e6a50cc32298696@ielts-german-plan.local
 DTSTAMP:20260713T000000Z
 DTSTART;TZID=Asia/Shanghai:20260713T193000
-DTEND;TZID=Asia/Shanghai:20260713T200000
+DTEND;TZID=Asia/Shanghai:20260713T194500
 SUMMARY:老师额外作业：听力作业：C14T1P1 + C15T4P1 完成并
  按要求复盘
 DESCRIPTION:微信群作业：听力作业：C14T1P1 + C15T4P1 完成并
- 按要求复盘\n截止：2026-07-14 20:00\n本次：30分钟；总预计
+ 按要求复盘\n截止：2026-07-14 20:00\n本次：15分钟；总预计
  ：100分钟\n优先级：high\n原文：截图来源：7.7 雅思听力
  强化课1作业。完成剑桥雅思真题练习 C14T1P1、C15T4P1（作
  业讲义）。听前按方法读题，不提前查生词；一听后若
@@ -435,32 +438,25 @@ DESCRIPTION:GRE轻启动：完成20道QR混合诊断题，记录概念、
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:8daa2c8aa810cccf@ielts-german-plan.local
+UID:06e24e3757e33496@ielts-german-plan.local
 DTSTAMP:20260714T000000Z
 DTSTART;TZID=Asia/Shanghai:20260714T160000
-DTEND;TZID=Asia/Shanghai:20260714T170000
+DTEND;TZID=Asia/Shanghai:20260714T171500
 SUMMARY:德语主任务块：复习 Praeteritum 高频动词
 DESCRIPTION:德语主任务块：复习 Praeteritum 高频动词。（含
  白天新词学习；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:05a40fe852223635@ielts-german-plan.local
+UID:05ed1578b6ae9e72@ielts-german-plan.local
 DTSTAMP:20260714T000000Z
 DTSTART;TZID=Asia/Shanghai:20260714T193000
-DTEND;TZID=Asia/Shanghai:20260714T194000
-SUMMARY:老师额外作业：听力作业：C14T1P1 + C15T4P1 完成并
- 按要求复盘
-DESCRIPTION:微信群作业：听力作业：C14T1P1 + C15T4P1 完成并
- 按要求复盘\n截止：2026-07-14 20:00\n本次：10分钟；总预计
- ：100分钟\n优先级：high\n原文：截图来源：7.7 雅思听力
- 强化课1作业。完成剑桥雅思真题练习 C14T1P1、C15T4P1（作
- 业讲义）。听前按方法读题，不提前查生词；一听后若
- 不确定较多，不对答案，回听全文，再比对两次答案；
- 整理错题与词汇，错的要分析，错的改对的也要分析。
- 音频、答案、原文见新东方雅思PRO或 https://liuxue.koolearn.
- com/ielts/listen/ 。
-CATEGORIES:Homework
+DTEND;TZID=Asia/Shanghai:20260714T201500
+SUMMARY:口语只录1道物品题，按“背景-细节-变化-感受”
+ 检查结构
+DESCRIPTION:口语只录1道物品题，按“背景-细节-变化-感受
+ ”检查结构。
+CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
 UID:efa96dbfae8a1170@ielts-german-plan.local
@@ -491,23 +487,23 @@ DESCRIPTION:直播听力强化2。讲义配套：特殊填空题型。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
-UID:a2a6f2e408b504f1@ielts-german-plan.local
+UID:1a23235e6caca1dd@ielts-german-plan.local
 DTSTAMP:20260715T000000Z
 DTSTART;TZID=Asia/Shanghai:20260715T160000
-DTEND;TZID=Asia/Shanghai:20260715T170000
+DTEND;TZID=Asia/Shanghai:20260715T171500
 SUMMARY:德语主任务块：复习情态动词
 DESCRIPTION:德语主任务块：复习情态动词。（含白天新词
  学习；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:b027a27e19f7e054@ielts-german-plan.local
+UID:918c9f50cf566b2f@ielts-german-plan.local
 DTSTAMP:20260715T000000Z
-DTSTART;TZID=Asia/Shanghai:20260715T171000
-DTEND;TZID=Asia/Shanghai:20260715T173000
-SUMMARY:雅思新词20-30个：优先直播课词、错题词和核心高
+DTSTART;TZID=Asia/Shanghai:20260715T172500
+DTEND;TZID=Asia/Shanghai:20260715T175500
+SUMMARY:雅思新词30-40个：优先直播课词、错题词和核心高
  频词；若必交作业紧急，本块被作业替换
-DESCRIPTION:雅思新词20-30个：优先直播课词、错题词和核
+DESCRIPTION:雅思新词30-40个：优先直播课词、错题词和核
  心高频词；若必交作业紧急，本块被作业替换。
 CATEGORIES:Vocabulary
 END:VEVENT
@@ -542,23 +538,23 @@ DESCRIPTION:直播听力强化3。讲义配套：单选题，重点是干
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
-UID:70293d086b10f747@ielts-german-plan.local
+UID:040fd6878b5f977a@ielts-german-plan.local
 DTSTAMP:20260716T000000Z
 DTSTART;TZID=Asia/Shanghai:20260716T160000
-DTEND;TZID=Asia/Shanghai:20260716T170000
+DTEND;TZID=Asia/Shanghai:20260716T171500
 SUMMARY:德语主任务块：复习句框结构
 DESCRIPTION:德语主任务块：复习句框结构。（含白天新词
  学习；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:d8ebf66a0b4a415e@ielts-german-plan.local
+UID:54aed27d5ddc9921@ielts-german-plan.local
 DTSTAMP:20260716T000000Z
-DTSTART;TZID=Asia/Shanghai:20260716T171000
-DTEND;TZID=Asia/Shanghai:20260716T173000
-SUMMARY:雅思新词20-30个：优先直播课词、错题词和核心高
+DTSTART;TZID=Asia/Shanghai:20260716T172500
+DTEND;TZID=Asia/Shanghai:20260716T175500
+SUMMARY:雅思新词30-40个：优先直播课词、错题词和核心高
  频词；若必交作业紧急，本块被作业替换
-DESCRIPTION:雅思新词20-30个：优先直播课词、错题词和核
+DESCRIPTION:雅思新词30-40个：优先直播课词、错题词和核
  心高频词；若必交作业紧急，本块被作业替换。
 CATEGORIES:Vocabulary
 END:VEVENT
@@ -572,6 +568,17 @@ SUMMARY:听力作业 C15T1P2；错题回听并写“题干表达 -> 原
 DESCRIPTION:听力作业 C15T1P2；错题回听并写“题干表达 -> 
  原文表达”8组。
 CATEGORIES:IELTS
+END:VEVENT
+BEGIN:VEVENT
+UID:dfc95717980906ee@ielts-german-plan.local
+DTSTAMP:20260716T000000Z
+DTSTART;TZID=Asia/Shanghai:20260716T205000
+DTEND;TZID=Asia/Shanghai:20260716T213500
+SUMMARY:目标加时（仅未达标时）：从今天单选题错因中
+ 选最弱一类，再做同题型8-10题并复盘
+DESCRIPTION:目标加时（仅未达标时）：从今天单选题错因
+ 中选最弱一类，再做同题型8-10题并复盘。
+CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
 UID:85dfdcff30bcb282@ielts-german-plan.local
@@ -602,23 +609,23 @@ DESCRIPTION:直播听力强化4。讲义配套：多选题。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
-UID:f4a5b44215aa7ee5@ielts-german-plan.local
+UID:f37d85fca7531a63@ielts-german-plan.local
 DTSTAMP:20260717T000000Z
 DTSTART;TZID=Asia/Shanghai:20260717T160000
-DTEND;TZID=Asia/Shanghai:20260717T170000
+DTEND;TZID=Asia/Shanghai:20260717T171500
 SUMMARY:德语主任务块：复习主句/从句动词位置
 DESCRIPTION:德语主任务块：复习主句/从句动词位置。（含
  白天新词学习；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:c3016368f4dfea05@ielts-german-plan.local
+UID:a0206ebdf8ee1677@ielts-german-plan.local
 DTSTAMP:20260717T000000Z
-DTSTART;TZID=Asia/Shanghai:20260717T171000
-DTEND;TZID=Asia/Shanghai:20260717T173000
-SUMMARY:雅思新词20-30个：优先直播课词、错题词和核心高
+DTSTART;TZID=Asia/Shanghai:20260717T172500
+DTEND;TZID=Asia/Shanghai:20260717T175500
+SUMMARY:雅思新词30-40个：优先直播课词、错题词和核心高
  频词；若必交作业紧急，本块被作业替换
-DESCRIPTION:雅思新词20-30个：优先直播课词、错题词和核
+DESCRIPTION:雅思新词30-40个：优先直播课词、错题词和核
  心高频词；若必交作业紧急，本块被作业替换。
 CATEGORIES:Vocabulary
 END:VEVENT
@@ -653,23 +660,23 @@ DESCRIPTION:直播写作强化5。讲义配套：同意与否各段落写
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
-UID:e69f291d3c635569@ielts-german-plan.local
+UID:7ad5fcf12a7a51a5@ielts-german-plan.local
 DTSTAMP:20260718T000000Z
 DTSTART;TZID=Asia/Shanghai:20260718T160000
-DTEND;TZID=Asia/Shanghai:20260718T170000
+DTEND;TZID=Asia/Shanghai:20260718T171500
 SUMMARY:德语主任务块：复习 weil/dass 从句
 DESCRIPTION:德语主任务块：复习 weil/dass 从句。（含白天
  新词学习；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:3c400a0596b591f8@ielts-german-plan.local
+UID:fb0e2cbf2946333c@ielts-german-plan.local
 DTSTAMP:20260718T000000Z
-DTSTART;TZID=Asia/Shanghai:20260718T171000
-DTEND;TZID=Asia/Shanghai:20260718T173000
-SUMMARY:雅思新词20-30个：优先直播课词、错题词和核心高
+DTSTART;TZID=Asia/Shanghai:20260718T172500
+DTEND;TZID=Asia/Shanghai:20260718T175500
+SUMMARY:雅思新词30-40个：优先直播课词、错题词和核心高
  频词；若必交作业紧急，本块被作业替换
-DESCRIPTION:雅思新词20-30个：优先直播课词、错题词和核
+DESCRIPTION:雅思新词30-40个：优先直播课词、错题词和核
  心高频词；若必交作业紧急，本块被作业替换。
 CATEGORIES:Vocabulary
 END:VEVENT
@@ -683,6 +690,17 @@ SUMMARY:写作作业套题4 Task 2，限时写主体段2段；口语Part
 DESCRIPTION:写作作业套题4 Task 2，限时写主体段2段；口语P
  art 1 6题热身。
 CATEGORIES:IELTS
+END:VEVENT
+BEGIN:VEVENT
+UID:3a91bd6ae91206b4@ielts-german-plan.local
+DTSTAMP:20260718T000000Z
+DTSTART;TZID=Asia/Shanghai:20260718T205000
+DTEND;TZID=Asia/Shanghai:20260718T213500
+SUMMARY:目标加时（仅德语周验收未达标时）：A2从句混合
+ 10题 + 5句主动造句
+DESCRIPTION:目标加时（仅德语周验收未达标时）：A2从句
+ 混合10题 + 5句主动造句。
+CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
 UID:d86f13a6e8b227f7@ielts-german-plan.local
@@ -733,20 +751,20 @@ DESCRIPTION:APS周任务：建立成绩单课程清单，先完成2门核
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:7e2f471d87c59941@ielts-german-plan.local
+UID:f921e7e2c94a2e67@ielts-german-plan.local
 DTSTAMP:20260720T000000Z
 DTSTART;TZID=Asia/Shanghai:20260720T160000
-DTEND;TZID=Asia/Shanghai:20260720T170000
+DTEND;TZID=Asia/Shanghai:20260720T171500
 SUMMARY:德语主任务块：比较级/最高级
 DESCRIPTION:德语主任务块：比较级/最高级。（含白天新词
  学习；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:043de54e0ea459ef@ielts-german-plan.local
+UID:04eca4d74f1b0496@ielts-german-plan.local
 DTSTAMP:20260720T000000Z
 DTSTART;TZID=Asia/Shanghai:20260720T193000
-DTEND;TZID=Asia/Shanghai:20260720T200000
+DTEND;TZID=Asia/Shanghai:20260720T201500
 SUMMARY:作文二改只修一个段落；不再叠加听力新题
 DESCRIPTION:作文二改只修一个段落；不再叠加听力新题。
 CATEGORIES:IELTS
@@ -781,20 +799,20 @@ DESCRIPTION:GRE轻启动：算术、比例、百分数专项20题，错
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:def00511789e76e7@ielts-german-plan.local
+UID:98a13baf86176786@ielts-german-plan.local
 DTSTAMP:20260721T000000Z
 DTSTART;TZID=Asia/Shanghai:20260721T160000
-DTEND;TZID=Asia/Shanghai:20260721T170000
+DTEND;TZID=Asia/Shanghai:20260721T171500
 SUMMARY:德语主任务块：介词支配格
 DESCRIPTION:德语主任务块：介词支配格。（含白天新词学
  习；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:4b24480a275022a2@ielts-german-plan.local
+UID:6bf940f30359bb49@ielts-german-plan.local
 DTSTAMP:20260721T000000Z
 DTSTART;TZID=Asia/Shanghai:20260721T193000
-DTEND;TZID=Asia/Shanghai:20260721T200000
+DTEND;TZID=Asia/Shanghai:20260721T201500
 SUMMARY:口语事件类只录1题，补齐“时间-地点-冲突-结果-
  感受”
 DESCRIPTION:口语事件类只录1题，补齐“时间-地点-冲突-结
@@ -829,23 +847,23 @@ DESCRIPTION:直播阅读强化4。讲义配套：判断题。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
-UID:6c1e25a9aa77da85@ielts-german-plan.local
+UID:1c67ad0ed7c720fd@ielts-german-plan.local
 DTSTAMP:20260722T000000Z
 DTSTART;TZID=Asia/Shanghai:20260722T160000
-DTEND;TZID=Asia/Shanghai:20260722T170000
+DTEND;TZID=Asia/Shanghai:20260722T171500
 SUMMARY:德语主任务块：zu + Infinitiv
 DESCRIPTION:德语主任务块：zu + Infinitiv。（含白天新词学
  习；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:b539c0c20c8b99ab@ielts-german-plan.local
+UID:f88d0ca7ec908009@ielts-german-plan.local
 DTSTAMP:20260722T000000Z
-DTSTART;TZID=Asia/Shanghai:20260722T171000
-DTEND;TZID=Asia/Shanghai:20260722T173000
-SUMMARY:雅思新词20-30个：优先直播课词、错题词和核心高
+DTSTART;TZID=Asia/Shanghai:20260722T172500
+DTEND;TZID=Asia/Shanghai:20260722T175500
+SUMMARY:雅思新词30-40个：优先直播课词、错题词和核心高
  频词；若必交作业紧急，本块被作业替换
-DESCRIPTION:雅思新词20-30个：优先直播课词、错题词和核
+DESCRIPTION:雅思新词30-40个：优先直播课词、错题词和核
  心高频词；若必交作业紧急，本块被作业替换。
 CATEGORIES:Vocabulary
 END:VEVENT
@@ -879,23 +897,23 @@ DESCRIPTION:直播口语强化6。讲义配套：Part 3 科技/社媒/教
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
-UID:d5cfd2d6e521c41f@ielts-german-plan.local
+UID:d08d571de67625f8@ielts-german-plan.local
 DTSTAMP:20260723T000000Z
 DTSTART;TZID=Asia/Shanghai:20260723T160000
-DTEND;TZID=Asia/Shanghai:20260723T170000
+DTEND;TZID=Asia/Shanghai:20260723T171500
 SUMMARY:德语主任务块：并列连词
 DESCRIPTION:德语主任务块：并列连词。（含白天新词学习
  ；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:586b8a04452f4052@ielts-german-plan.local
+UID:70c5b684077f027c@ielts-german-plan.local
 DTSTAMP:20260723T000000Z
-DTSTART;TZID=Asia/Shanghai:20260723T171000
-DTEND;TZID=Asia/Shanghai:20260723T173000
-SUMMARY:雅思新词20-30个：优先直播课词、错题词和核心高
+DTSTART;TZID=Asia/Shanghai:20260723T172500
+DTEND;TZID=Asia/Shanghai:20260723T175500
+SUMMARY:雅思新词30-40个：优先直播课词、错题词和核心高
  频词；若必交作业紧急，本块被作业替换
-DESCRIPTION:雅思新词20-30个：优先直播课词、错题词和核
+DESCRIPTION:雅思新词30-40个：优先直播课词、错题词和核
  心高频词；若必交作业紧急，本块被作业替换。
 CATEGORIES:Vocabulary
 END:VEVENT
@@ -909,6 +927,17 @@ SUMMARY:Part 3 科技/教育两组话题，各3题；听力补 C13T2P2
 DESCRIPTION:Part 3 科技/教育两组话题，各3题；听力补 C13T2P
  2 多选。
 CATEGORIES:IELTS
+END:VEVENT
+BEGIN:VEVENT
+UID:cee46c49d5743a19@ielts-german-plan.local
+DTSTAMP:20260723T000000Z
+DTSTART;TZID=Asia/Shanghai:20260723T205000
+DTEND;TZID=Asia/Shanghai:20260723T213500
+SUMMARY:目标加时（仅未达标时）：重录最差1组Part 3，修
+ 正结构、停顿和3个语法错误
+DESCRIPTION:目标加时（仅未达标时）：重录最差1组Part 3，
+ 修正结构、停顿和3个语法错误。
+CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
 UID:7b9d9645515ce73a@ielts-german-plan.local
@@ -938,23 +967,23 @@ DESCRIPTION:直播听力强化5。讲义配套：笔记填空。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
-UID:edaf5357396f062d@ielts-german-plan.local
+UID:4796d772ee985409@ielts-german-plan.local
 DTSTAMP:20260724T000000Z
 DTSTART;TZID=Asia/Shanghai:20260724T160000
-DTEND;TZID=Asia/Shanghai:20260724T170000
+DTEND;TZID=Asia/Shanghai:20260724T171500
 SUMMARY:德语主任务块：dass/ob 间接问句
 DESCRIPTION:德语主任务块：dass/ob 间接问句。（含白天新
  词学习；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:c239bd7226a2926b@ielts-german-plan.local
+UID:e0f57cb4f1619c1c@ielts-german-plan.local
 DTSTAMP:20260724T000000Z
-DTSTART;TZID=Asia/Shanghai:20260724T171000
-DTEND;TZID=Asia/Shanghai:20260724T173000
-SUMMARY:雅思新词20-30个：优先直播课词、错题词和核心高
+DTSTART;TZID=Asia/Shanghai:20260724T172500
+DTEND;TZID=Asia/Shanghai:20260724T175500
+SUMMARY:雅思新词30-40个：优先直播课词、错题词和核心高
  频词；若必交作业紧急，本块被作业替换
-DESCRIPTION:雅思新词20-30个：优先直播课词、错题词和核
+DESCRIPTION:雅思新词30-40个：优先直播课词、错题词和核
  心高频词；若必交作业紧急，本块被作业替换。
 CATEGORIES:Vocabulary
 END:VEVENT
@@ -988,23 +1017,23 @@ DESCRIPTION:直播听力强化6。讲义配套：搭配题。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
-UID:74c87c4ab8c25ac9@ielts-german-plan.local
+UID:e8e3e6905cdda773@ielts-german-plan.local
 DTSTAMP:20260725T000000Z
 DTSTART;TZID=Asia/Shanghai:20260725T160000
-DTEND;TZID=Asia/Shanghai:20260725T170000
+DTEND;TZID=Asia/Shanghai:20260725T171500
 SUMMARY:德语主任务块：关系代词基础
 DESCRIPTION:德语主任务块：关系代词基础。（含白天新词
  学习；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:44bf96331c170794@ielts-german-plan.local
+UID:2a6aa72b9b5092d6@ielts-german-plan.local
 DTSTAMP:20260725T000000Z
-DTSTART;TZID=Asia/Shanghai:20260725T171000
-DTEND;TZID=Asia/Shanghai:20260725T173000
-SUMMARY:雅思新词20-30个：优先直播课词、错题词和核心高
+DTSTART;TZID=Asia/Shanghai:20260725T172500
+DTEND;TZID=Asia/Shanghai:20260725T175500
+SUMMARY:雅思新词30-40个：优先直播课词、错题词和核心高
  频词；若必交作业紧急，本块被作业替换
-DESCRIPTION:雅思新词20-30个：优先直播课词、错题词和核
+DESCRIPTION:雅思新词30-40个：优先直播课词、错题词和核
  心高频词；若必交作业紧急，本块被作业替换。
 CATEGORIES:Vocabulary
 END:VEVENT
@@ -1018,6 +1047,17 @@ SUMMARY:听力作业 C15T2P3；补充 C14T2S3 只做搭配相关题；总
 DESCRIPTION:听力作业 C15T2P3；补充 C14T2S3 只做搭配相关题
  ；总结选项改写。
 CATEGORIES:IELTS
+END:VEVENT
+BEGIN:VEVENT
+UID:7c9f120fd0cfcc37@ielts-german-plan.local
+DTSTAMP:20260725T000000Z
+DTSTART;TZID=Asia/Shanghai:20260725T205000
+DTEND;TZID=Asia/Shanghai:20260725T213500
+SUMMARY:目标加时（仅德语周验收未达标时）：关系代词/
+ 介词支配混合10题并口头造句5句
+DESCRIPTION:目标加时（仅德语周验收未达标时）：关系代
+ 词/介词支配混合10题并口头造句5句。
+CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
 UID:eb3930a7c5195c6c@ielts-german-plan.local
@@ -1068,20 +1108,20 @@ DESCRIPTION:APS周任务：完成第3-4门核心课卡片，并用英语
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:e25a9014523615a5@ielts-german-plan.local
+UID:10820031e77c90d7@ielts-german-plan.local
 DTSTAMP:20260727T000000Z
 DTSTART;TZID=Asia/Shanghai:20260727T160000
-DTEND;TZID=Asia/Shanghai:20260727T170000
+DTEND;TZID=Asia/Shanghai:20260727T171500
 SUMMARY:德语主任务块：时间从句
 DESCRIPTION:德语主任务块：时间从句。（含白天新词学习
  ；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:d8cf0db141dddf16@ielts-german-plan.local
+UID:20ae9c1fc1bdbe75@ielts-german-plan.local
 DTSTAMP:20260727T000000Z
 DTSTART;TZID=Asia/Shanghai:20260727T193000
-DTEND;TZID=Asia/Shanghai:20260727T200000
+DTEND;TZID=Asia/Shanghai:20260727T201500
 SUMMARY:阅读作业C7T1P2先完成老师指定部分；只复盘段落
  主旨
 DESCRIPTION:阅读作业C7T1P2先完成老师指定部分；只复盘段
@@ -1118,20 +1158,20 @@ DESCRIPTION:GRE轻启动：代数方程、不等式和函数专项20题
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:46c8efb86404887a@ielts-german-plan.local
+UID:7485eb1ba98afa0a@ielts-german-plan.local
 DTSTAMP:20260728T000000Z
 DTSTART;TZID=Asia/Shanghai:20260728T160000
-DTEND;TZID=Asia/Shanghai:20260728T170000
+DTEND;TZID=Asia/Shanghai:20260728T171500
 SUMMARY:德语主任务块：地点介词和方向表达
 DESCRIPTION:德语主任务块：地点介词和方向表达。（含白
  天新词学习；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:e8baaae1d736b118@ielts-german-plan.local
+UID:348d201941fdacf4@ielts-german-plan.local
 DTSTAMP:20260728T000000Z
 DTSTART;TZID=Asia/Shanghai:20260728T193000
-DTEND;TZID=Asia/Shanghai:20260728T200000
+DTEND;TZID=Asia/Shanghai:20260728T201500
 SUMMARY:复盘口语诊断，只修最明显的一个结构或流利度
  问题
 DESCRIPTION:复盘口语诊断，只修最明显的一个结构或流利
@@ -1168,23 +1208,23 @@ DESCRIPTION:直播口语强化7。讲义配套：Part 3 环境/健康/友
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
-UID:769799bcf91d59bd@ielts-german-plan.local
+UID:3862066eaa42e8fc@ielts-german-plan.local
 DTSTAMP:20260729T000000Z
 DTSTART;TZID=Asia/Shanghai:20260729T160000
-DTEND;TZID=Asia/Shanghai:20260729T170000
+DTEND;TZID=Asia/Shanghai:20260729T171500
 SUMMARY:德语主任务块：反身动词
 DESCRIPTION:德语主任务块：反身动词。（含白天新词学习
  ；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:a1b08d590c7917e0@ielts-german-plan.local
+UID:c35de541b07ccfe6@ielts-german-plan.local
 DTSTAMP:20260729T000000Z
-DTSTART;TZID=Asia/Shanghai:20260729T171000
-DTEND;TZID=Asia/Shanghai:20260729T173000
-SUMMARY:雅思新词20-30个：优先直播课词、错题词和核心高
+DTSTART;TZID=Asia/Shanghai:20260729T172500
+DTEND;TZID=Asia/Shanghai:20260729T175500
+SUMMARY:雅思新词30-40个：优先直播课词、错题词和核心高
  频词；若必交作业紧急，本块被作业替换
-DESCRIPTION:雅思新词20-30个：优先直播课词、错题词和核
+DESCRIPTION:雅思新词30-40个：优先直播课词、错题词和核
  心高频词；若必交作业紧急，本块被作业替换。
 CATEGORIES:Vocabulary
 END:VEVENT
@@ -1218,23 +1258,23 @@ DESCRIPTION:直播阅读强化7。讲义配套：段落信息匹配和平
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
-UID:e98a1f23975a7bda@ielts-german-plan.local
+UID:b1538c5c6c0eb95d@ielts-german-plan.local
 DTSTAMP:20260730T000000Z
 DTSTART;TZID=Asia/Shanghai:20260730T160000
-DTEND;TZID=Asia/Shanghai:20260730T170000
+DTEND;TZID=Asia/Shanghai:20260730T171500
 SUMMARY:德语主任务块：代副词 damit/dafuer/daran
 DESCRIPTION:德语主任务块：代副词 damit/dafuer/daran。（含白
  天新词学习；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:668947a05f3fdfec@ielts-german-plan.local
+UID:fc264820a661e06b@ielts-german-plan.local
 DTSTAMP:20260730T000000Z
-DTSTART;TZID=Asia/Shanghai:20260730T171000
-DTEND;TZID=Asia/Shanghai:20260730T173000
-SUMMARY:雅思新词20-30个：优先直播课词、错题词和核心高
+DTSTART;TZID=Asia/Shanghai:20260730T172500
+DTEND;TZID=Asia/Shanghai:20260730T175500
+SUMMARY:雅思新词30-40个：优先直播课词、错题词和核心高
  频词；若必交作业紧急，本块被作业替换
-DESCRIPTION:雅思新词20-30个：优先直播课词、错题词和核
+DESCRIPTION:雅思新词30-40个：优先直播课词、错题词和核
  心高频词；若必交作业紧急，本块被作业替换。
 CATEGORIES:Vocabulary
 END:VEVENT
@@ -1247,6 +1287,17 @@ SUMMARY:阅读作业 C13T2P2；额外若有时间做 C14T4P2 前半
 DESCRIPTION:阅读作业 C13T2P2；额外若有时间做 C14T4P2 前半
  。
 CATEGORIES:IELTS
+END:VEVENT
+BEGIN:VEVENT
+UID:826a7036d922f4f5@ielts-german-plan.local
+DTSTAMP:20260730T000000Z
+DTSTART;TZID=Asia/Shanghai:20260730T205000
+DTEND;TZID=Asia/Shanghai:20260730T213500
+SUMMARY:目标加时（仅未达标时）：段落信息匹配同题型8
+ 题，只复盘定位链和同义替换
+DESCRIPTION:目标加时（仅未达标时）：段落信息匹配同题
+ 型8题，只复盘定位链和同义替换。
+CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
 UID:fba0c5d0d970032b@ielts-german-plan.local
@@ -1268,23 +1319,23 @@ DESCRIPTION:直播听力强化7。讲义配套：地图、流程特殊题
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
-UID:472ef41c23b6ce60@ielts-german-plan.local
+UID:c9e34a4cfc0db77c@ielts-german-plan.local
 DTSTAMP:20260731T000000Z
 DTSTART;TZID=Asia/Shanghai:20260731T160000
-DTEND;TZID=Asia/Shanghai:20260731T170000
+DTEND;TZID=Asia/Shanghai:20260731T171500
 SUMMARY:德语主任务块：主句转从句
 DESCRIPTION:德语主任务块：主句转从句。（含白天新词学
  习；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:df25466a80dab428@ielts-german-plan.local
+UID:91d33487042aa008@ielts-german-plan.local
 DTSTAMP:20260731T000000Z
-DTSTART;TZID=Asia/Shanghai:20260731T171000
-DTEND;TZID=Asia/Shanghai:20260731T173000
-SUMMARY:雅思新词20-30个：优先直播课词、错题词和核心高
+DTSTART;TZID=Asia/Shanghai:20260731T172500
+DTEND;TZID=Asia/Shanghai:20260731T175500
+SUMMARY:雅思新词30-40个：优先直播课词、错题词和核心高
  频词；若必交作业紧急，本块被作业替换
-DESCRIPTION:雅思新词20-30个：优先直播课词、错题词和核
+DESCRIPTION:雅思新词30-40个：优先直播课词、错题词和核
  心高频词；若必交作业紧急，本块被作业替换。
 CATEGORIES:Vocabulary
 END:VEVENT
@@ -1316,23 +1367,23 @@ DESCRIPTION:大小作文批改4-7。
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:eba3e700cf8def86@ielts-german-plan.local
+UID:38a8c3a506332420@ielts-german-plan.local
 DTSTAMP:20260801T000000Z
 DTSTART;TZID=Asia/Shanghai:20260801T160000
-DTEND;TZID=Asia/Shanghai:20260801T170000
+DTEND;TZID=Asia/Shanghai:20260801T171500
 SUMMARY:德语主任务块：B1高频动词搭配
 DESCRIPTION:德语主任务块：B1高频动词搭配。（含白天新
  词学习；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:aee85eb789536506@ielts-german-plan.local
+UID:8eb688c105b4e6a1@ielts-german-plan.local
 DTSTAMP:20260801T000000Z
-DTSTART;TZID=Asia/Shanghai:20260801T171000
-DTEND;TZID=Asia/Shanghai:20260801T173000
-SUMMARY:雅思新词20-30个：优先直播课词、错题词和核心高
+DTSTART;TZID=Asia/Shanghai:20260801T172500
+DTEND;TZID=Asia/Shanghai:20260801T175500
+SUMMARY:雅思新词30-40个：优先直播课词、错题词和核心高
  频词；若必交作业紧急，本块被作业替换
-DESCRIPTION:雅思新词20-30个：优先直播课词、错题词和核
+DESCRIPTION:雅思新词30-40个：优先直播课词、错题词和核
  心高频词；若必交作业紧急，本块被作业替换。
 CATEGORIES:Vocabulary
 END:VEVENT
@@ -1344,6 +1395,17 @@ DTEND;TZID=Asia/Shanghai:20260801T204000
 SUMMARY:作文二改1篇；补听力 C12T2P3 地图/流程题
 DESCRIPTION:作文二改1篇；补听力 C12T2P3 地图/流程题。
 CATEGORIES:IELTS
+END:VEVENT
+BEGIN:VEVENT
+UID:0a02841a68c7d539@ielts-german-plan.local
+DTSTAMP:20260801T000000Z
+DTSTART;TZID=Asia/Shanghai:20260801T205000
+DTEND;TZID=Asia/Shanghai:20260801T213500
+SUMMARY:目标加时（仅德语周验收未达标时）：完成一篇12
+ 0词B1短文或2分钟口述，二选一
+DESCRIPTION:目标加时（仅德语周验收未达标时）：完成一
+ 篇120词B1短文或2分钟口述，二选一。
+CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
 UID:1be93f0f9f4b595c@ielts-german-plan.local
@@ -1412,20 +1474,20 @@ DESCRIPTION:APS周任务：检查注册、缴费、材料邮寄和APS账
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:e1c6c66e08c29691@ielts-german-plan.local
+UID:2492d7f11dd58734@ielts-german-plan.local
 DTSTAMP:20260803T000000Z
 DTSTART;TZID=Asia/Shanghai:20260803T160000
-DTEND;TZID=Asia/Shanghai:20260803T170000
+DTEND;TZID=Asia/Shanghai:20260803T171500
 SUMMARY:德语主任务块：数字日期价格听写
 DESCRIPTION:德语主任务块：数字日期价格听写。（含白天
  新词学习；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:f18302fa4d23920f@ielts-german-plan.local
+UID:fc0f7acd627a553d@ielts-german-plan.local
 DTSTAMP:20260803T000000Z
 DTSTART;TZID=Asia/Shanghai:20260803T193000
-DTEND;TZID=Asia/Shanghai:20260803T200000
+DTEND;TZID=Asia/Shanghai:20260803T201500
 SUMMARY:听力精讲选择题只复盘3道代表错题，不再加口语
  新题
 DESCRIPTION:听力精讲选择题只复盘3道代表错题，不再加口
@@ -1463,20 +1525,20 @@ DESCRIPTION:GRE轻启动：几何专项20题，整理图形条件遗漏
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:5bd52444674af305@ielts-german-plan.local
+UID:2e5b5cb18f776102@ielts-german-plan.local
 DTSTAMP:20260804T000000Z
 DTSTART;TZID=Asia/Shanghai:20260804T160000
-DTEND;TZID=Asia/Shanghai:20260804T170000
+DTEND;TZID=Asia/Shanghai:20260804T171500
 SUMMARY:德语主任务块：B1阅读找主题句
 DESCRIPTION:德语主任务块：B1阅读找主题句。（含白天新
  词学习；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:3be17e4fcf2f173c@ielts-german-plan.local
+UID:8204c2c117f56930@ielts-german-plan.local
 DTSTAMP:20260804T000000Z
 DTSTART;TZID=Asia/Shanghai:20260804T193000
-DTEND;TZID=Asia/Shanghai:20260804T200000
+DTEND;TZID=Asia/Shanghai:20260804T201500
 SUMMARY:阅读精讲C18T4P3只复盘3道代表错题，词汇只收录5
  个
 DESCRIPTION:阅读精讲C18T4P3只复盘3道代表错题，词汇只收
@@ -1511,23 +1573,23 @@ DESCRIPTION:直播口语精讲2。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
-UID:d34748e2b63084a8@ielts-german-plan.local
+UID:e443e9b8df36297a@ielts-german-plan.local
 DTSTAMP:20260805T000000Z
 DTSTART;TZID=Asia/Shanghai:20260805T160000
-DTEND;TZID=Asia/Shanghai:20260805T170000
+DTEND;TZID=Asia/Shanghai:20260805T171500
 SUMMARY:德语主任务块：复合名词
 DESCRIPTION:德语主任务块：复合名词。（含白天新词学习
  ；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:857b4e66b87bfc7b@ielts-german-plan.local
+UID:eee3af6880a49237@ielts-german-plan.local
 DTSTAMP:20260805T000000Z
-DTSTART;TZID=Asia/Shanghai:20260805T171000
-DTEND;TZID=Asia/Shanghai:20260805T173000
-SUMMARY:雅思新词20-30个：优先直播课词、错题词和核心高
+DTSTART;TZID=Asia/Shanghai:20260805T172500
+DTEND;TZID=Asia/Shanghai:20260805T175500
+SUMMARY:雅思新词30-40个：优先直播课词、错题词和核心高
  频词；若必交作业紧急，本块被作业替换
-DESCRIPTION:雅思新词20-30个：优先直播课词、错题词和核
+DESCRIPTION:雅思新词30-40个：优先直播课词、错题词和核
  心高频词；若必交作业紧急，本块被作业替换。
 CATEGORIES:Vocabulary
 END:VEVENT
@@ -1559,23 +1621,23 @@ DESCRIPTION:直播听力精讲3。讲义配套：Part 2-3 搭配强化。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
-UID:6445fee9e74c315c@ielts-german-plan.local
+UID:a725d1b47b1a0344@ielts-german-plan.local
 DTSTAMP:20260806T000000Z
 DTSTART;TZID=Asia/Shanghai:20260806T160000
-DTEND;TZID=Asia/Shanghai:20260806T170000
+DTEND;TZID=Asia/Shanghai:20260806T171500
 SUMMARY:德语主任务块：德语外来词和名词大写
 DESCRIPTION:德语主任务块：德语外来词和名词大写。（含
  白天新词学习；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:d82dd96431dfbd9e@ielts-german-plan.local
+UID:584847f1fbbfdff0@ielts-german-plan.local
 DTSTAMP:20260806T000000Z
-DTSTART;TZID=Asia/Shanghai:20260806T171000
-DTEND;TZID=Asia/Shanghai:20260806T173000
-SUMMARY:雅思新词20-30个：优先直播课词、错题词和核心高
+DTSTART;TZID=Asia/Shanghai:20260806T172500
+DTEND;TZID=Asia/Shanghai:20260806T175500
+SUMMARY:雅思新词30-40个：优先直播课词、错题词和核心高
  频词；若必交作业紧急，本块被作业替换
-DESCRIPTION:雅思新词20-30个：优先直播课词、错题词和核
+DESCRIPTION:雅思新词30-40个：优先直播课词、错题词和核
  心高频词；若必交作业紧急，本块被作业替换。
 CATEGORIES:Vocabulary
 END:VEVENT
@@ -1587,6 +1649,17 @@ DTEND;TZID=Asia/Shanghai:20260806T204000
 SUMMARY:听力精讲搭配题复盘；补 C16T1P3 或 C18T2S3
 DESCRIPTION:听力精讲搭配题复盘；补 C16T1P3 或 C18T2S3。
 CATEGORIES:IELTS
+END:VEVENT
+BEGIN:VEVENT
+UID:088f3dfea65658ab@ielts-german-plan.local
+DTSTAMP:20260806T000000Z
+DTSTART;TZID=Asia/Shanghai:20260806T205000
+DTEND;TZID=Asia/Shanghai:20260806T213500
+SUMMARY:目标加时（仅未达标时）：搭配题同题型8-10题，
+ 记录“选项表达 -> 原文表达”
+DESCRIPTION:目标加时（仅未达标时）：搭配题同题型8-10题
+ ，记录“选项表达 -> 原文表达”。
+CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
 UID:1d5770f31dde2a99@ielts-german-plan.local
@@ -1607,23 +1680,23 @@ DESCRIPTION:雅思全科测评1。
 CATEGORIES:Mock
 END:VEVENT
 BEGIN:VEVENT
-UID:fcd9454ac9eee6b5@ielts-german-plan.local
+UID:9df082a17361034a@ielts-german-plan.local
 DTSTAMP:20260807T000000Z
 DTSTART;TZID=Asia/Shanghai:20260807T160000
-DTEND;TZID=Asia/Shanghai:20260807T170000
+DTEND;TZID=Asia/Shanghai:20260807T171500
 SUMMARY:德语主任务块：B1听力关键词
 DESCRIPTION:德语主任务块：B1听力关键词。（含白天新词
  学习；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:99be20510dec4d7b@ielts-german-plan.local
+UID:1499806d46479b22@ielts-german-plan.local
 DTSTAMP:20260807T000000Z
-DTSTART;TZID=Asia/Shanghai:20260807T171000
-DTEND;TZID=Asia/Shanghai:20260807T173000
-SUMMARY:雅思新词20-30个：优先直播课词、错题词和核心高
+DTSTART;TZID=Asia/Shanghai:20260807T172500
+DTEND;TZID=Asia/Shanghai:20260807T175500
+SUMMARY:雅思新词30-40个：优先直播课词、错题词和核心高
  频词；若必交作业紧急，本块被作业替换
-DESCRIPTION:雅思新词20-30个：优先直播课词、错题词和核
+DESCRIPTION:雅思新词30-40个：优先直播课词、错题词和核
  心高频词；若必交作业紧急，本块被作业替换。
 CATEGORIES:Vocabulary
 END:VEVENT
@@ -1655,23 +1728,23 @@ DESCRIPTION:雅思全科测评2。
 CATEGORIES:Mock
 END:VEVENT
 BEGIN:VEVENT
-UID:bac14c57cce1822e@ielts-german-plan.local
+UID:b955d9dc2c354620@ielts-german-plan.local
 DTSTAMP:20260808T000000Z
 DTSTART;TZID=Asia/Shanghai:20260808T160000
-DTEND;TZID=Asia/Shanghai:20260808T170000
+DTEND;TZID=Asia/Shanghai:20260808T171500
 SUMMARY:德语主任务块：图表描述词
 DESCRIPTION:德语主任务块：图表描述词。（含白天新词学
  习；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:9542031079f72c1e@ielts-german-plan.local
+UID:86ee92aed410b9dd@ielts-german-plan.local
 DTSTAMP:20260808T000000Z
-DTSTART;TZID=Asia/Shanghai:20260808T171000
-DTEND;TZID=Asia/Shanghai:20260808T173000
-SUMMARY:雅思新词20-30个：优先直播课词、错题词和核心高
+DTSTART;TZID=Asia/Shanghai:20260808T172500
+DTEND;TZID=Asia/Shanghai:20260808T175500
+SUMMARY:雅思新词30-40个：优先直播课词、错题词和核心高
  频词；若必交作业紧急，本块被作业替换
-DESCRIPTION:雅思新词20-30个：优先直播课词、错题词和核
+DESCRIPTION:雅思新词30-40个：优先直播课词、错题词和核
  心高频词；若必交作业紧急，本块被作业替换。
 CATEGORIES:Vocabulary
 END:VEVENT
@@ -1683,6 +1756,17 @@ DTEND;TZID=Asia/Shanghai:20260808T204000
 SUMMARY:复盘测评2；写作问题清单5条
 DESCRIPTION:复盘测评2；写作问题清单5条。
 CATEGORIES:Mock
+END:VEVENT
+BEGIN:VEVENT
+UID:80acd898c14268e5@ielts-german-plan.local
+DTSTAMP:20260808T000000Z
+DTSTART;TZID=Asia/Shanghai:20260808T205000
+DTEND;TZID=Asia/Shanghai:20260808T213500
+SUMMARY:目标加时（仅德语周验收未达标时）：按本周最
+ 低项做A2/B1混合自测或短文二改
+DESCRIPTION:目标加时（仅德语周验收未达标时）：按本周
+ 最低项做A2/B1混合自测或短文二改。
+CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
 UID:bc936f70fc7ba9fb@ielts-german-plan.local
@@ -1742,20 +1826,20 @@ DESCRIPTION:APS周任务：完成第5-6门核心课卡片，准备专业
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:67def08206957fcc@ielts-german-plan.local
+UID:da3d772a3149f1c9@ielts-german-plan.local
 DTSTAMP:20260810T000000Z
 DTSTART;TZID=Asia/Shanghai:20260810T160000
-DTEND;TZID=Asia/Shanghai:20260810T170000
+DTEND;TZID=Asia/Shanghai:20260810T171500
 SUMMARY:德语主任务块：文章连接词
 DESCRIPTION:德语主任务块：文章连接词。（含白天新词学
  习；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:ea06ce8b76abaed1@ielts-german-plan.local
+UID:d4571e3a8c928c59@ielts-german-plan.local
 DTSTAMP:20260810T000000Z
 DTSTART;TZID=Asia/Shanghai:20260810T193000
-DTEND;TZID=Asia/Shanghai:20260810T200000
+DTEND;TZID=Asia/Shanghai:20260810T201500
 SUMMARY:阅读精讲只复盘3道错题，不做C20额外新题
 DESCRIPTION:阅读精讲只复盘3道错题，不做C20额外新题。
 CATEGORIES:IELTS
@@ -1790,20 +1874,20 @@ DESCRIPTION:GRE轻启动：数据分析专项20题，并完成1个AWA Iss
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:263109308f432d94@ielts-german-plan.local
+UID:641f25bbe3a1e98d@ielts-german-plan.local
 DTSTAMP:20260811T000000Z
 DTSTART;TZID=Asia/Shanghai:20260811T160000
-DTEND;TZID=Asia/Shanghai:20260811T170000
+DTEND;TZID=Asia/Shanghai:20260811T171500
 SUMMARY:德语主任务块：nicht/kein/nie
 DESCRIPTION:德语主任务块：nicht/kein/nie。（含白天新词学
  习；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:70e650368454a7b0@ielts-german-plan.local
+UID:fab71184b4714456@ielts-german-plan.local
 DTSTAMP:20260811T000000Z
 DTSTART;TZID=Asia/Shanghai:20260811T193000
-DTEND;TZID=Asia/Shanghai:20260811T200000
+DTEND;TZID=Asia/Shanghai:20260811T201500
 SUMMARY:写作Task 2只完成提纲、开头和一个主体段，不写
  全文
 DESCRIPTION:写作Task 2只完成提纲、开头和一个主体段，不
@@ -1829,23 +1913,23 @@ DESCRIPTION:雅思全科测评3。
 CATEGORIES:Mock
 END:VEVENT
 BEGIN:VEVENT
-UID:65568f62b1098196@ielts-german-plan.local
+UID:27bea138edd4ff9c@ielts-german-plan.local
 DTSTAMP:20260812T000000Z
 DTSTART;TZID=Asia/Shanghai:20260812T160000
-DTEND;TZID=Asia/Shanghai:20260812T170000
+DTEND;TZID=Asia/Shanghai:20260812T171500
 SUMMARY:德语主任务块：B1阅读1篇
 DESCRIPTION:德语主任务块：B1阅读1篇。（含白天新词学习
  ；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:0a583aa715695050@ielts-german-plan.local
+UID:d21ae1a1c2c182f4@ielts-german-plan.local
 DTSTAMP:20260812T000000Z
-DTSTART;TZID=Asia/Shanghai:20260812T171000
-DTEND;TZID=Asia/Shanghai:20260812T173000
-SUMMARY:雅思新词20-30个：优先直播课词、错题词和核心高
+DTSTART;TZID=Asia/Shanghai:20260812T172500
+DTEND;TZID=Asia/Shanghai:20260812T175500
+SUMMARY:雅思新词30-40个：优先直播课词、错题词和核心高
  频词；若必交作业紧急，本块被作业替换
-DESCRIPTION:雅思新词20-30个：优先直播课词、错题词和核
+DESCRIPTION:雅思新词30-40个：优先直播课词、错题词和核
  心高频词；若必交作业紧急，本块被作业替换。
 CATEGORIES:Vocabulary
 END:VEVENT
@@ -1877,23 +1961,23 @@ DESCRIPTION:雅思全科测评4。
 CATEGORIES:Mock
 END:VEVENT
 BEGIN:VEVENT
-UID:ccc71db36073d0d0@ielts-german-plan.local
+UID:13d8ae9990dcd549@ielts-german-plan.local
 DTSTAMP:20260813T000000Z
 DTSTART;TZID=Asia/Shanghai:20260813T160000
-DTEND;TZID=Asia/Shanghai:20260813T170000
+DTEND;TZID=Asia/Shanghai:20260813T171500
 SUMMARY:德语主任务块：因果/转折/让步表达
 DESCRIPTION:德语主任务块：因果/转折/让步表达。（含白
  天新词学习；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:a20461070c2221d6@ielts-german-plan.local
+UID:d6eb169fbab78d47@ielts-german-plan.local
 DTSTAMP:20260813T000000Z
-DTSTART;TZID=Asia/Shanghai:20260813T171000
-DTEND;TZID=Asia/Shanghai:20260813T173000
-SUMMARY:雅思新词20-30个：优先直播课词、错题词和核心高
+DTSTART;TZID=Asia/Shanghai:20260813T172500
+DTEND;TZID=Asia/Shanghai:20260813T175500
+SUMMARY:雅思新词30-40个：优先直播课词、错题词和核心高
  频词；若必交作业紧急，本块被作业替换
-DESCRIPTION:雅思新词20-30个：优先直播课词、错题词和核
+DESCRIPTION:雅思新词30-40个：优先直播课词、错题词和核
  心高频词；若必交作业紧急，本块被作业替换。
 CATEGORIES:Vocabulary
 END:VEVENT
@@ -1905,6 +1989,17 @@ DTEND;TZID=Asia/Shanghai:20260813T204000
 SUMMARY:复盘测评4；整理作文连接词20个
 DESCRIPTION:复盘测评4；整理作文连接词20个。
 CATEGORIES:Vocabulary
+END:VEVENT
+BEGIN:VEVENT
+UID:b50309fca931d67f@ielts-german-plan.local
+DTSTAMP:20260813T000000Z
+DTSTART;TZID=Asia/Shanghai:20260813T205000
+DTEND;TZID=Asia/Shanghai:20260813T213500
+SUMMARY:目标加时（仅测评未达闸门时）：只修测评中失
+ 分最大的一个单项，不开新套题
+DESCRIPTION:目标加时（仅测评未达闸门时）：只修测评中
+ 失分最大的一个单项，不开新套题。
+CATEGORIES:Mock
 END:VEVENT
 BEGIN:VEVENT
 UID:a1d3e781649b8bc5@ielts-german-plan.local
@@ -1925,23 +2020,23 @@ DESCRIPTION:雅思全科测评5。
 CATEGORIES:Mock
 END:VEVENT
 BEGIN:VEVENT
-UID:bfa1c3d33d88f711@ielts-german-plan.local
+UID:4690653f239a3f89@ielts-german-plan.local
 DTSTAMP:20260814T000000Z
 DTSTART;TZID=Asia/Shanghai:20260814T160000
-DTEND;TZID=Asia/Shanghai:20260814T170000
+DTEND;TZID=Asia/Shanghai:20260814T171500
 SUMMARY:德语主任务块：形容词词尾第一轮
 DESCRIPTION:德语主任务块：形容词词尾第一轮。（含白天
  新词学习；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:df6203ad26fa2732@ielts-german-plan.local
+UID:a2b3de13ffd0abc1@ielts-german-plan.local
 DTSTAMP:20260814T000000Z
-DTSTART;TZID=Asia/Shanghai:20260814T171000
-DTEND;TZID=Asia/Shanghai:20260814T173000
-SUMMARY:雅思新词20-30个：优先直播课词、错题词和核心高
+DTSTART;TZID=Asia/Shanghai:20260814T172500
+DTEND;TZID=Asia/Shanghai:20260814T175500
+SUMMARY:雅思新词30-40个：优先直播课词、错题词和核心高
  频词；若必交作业紧急，本块被作业替换
-DESCRIPTION:雅思新词20-30个：优先直播课词、错题词和核
+DESCRIPTION:雅思新词30-40个：优先直播课词、错题词和核
  心高频词；若必交作业紧急，本块被作业替换。
 CATEGORIES:Vocabulary
 END:VEVENT
@@ -1973,23 +2068,23 @@ DESCRIPTION:雅思全科测评6。
 CATEGORIES:Mock
 END:VEVENT
 BEGIN:VEVENT
-UID:0c15df354701aecc@ielts-german-plan.local
+UID:eb7b75f7b2f03f2f@ielts-german-plan.local
 DTSTAMP:20260815T000000Z
 DTSTART;TZID=Asia/Shanghai:20260815T160000
-DTEND;TZID=Asia/Shanghai:20260815T170000
+DTEND;TZID=Asia/Shanghai:20260815T171500
 SUMMARY:德语主任务块：形容词词尾第二轮
 DESCRIPTION:德语主任务块：形容词词尾第二轮。（含白天
  新词学习；睡前只复习旧词）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:79ca35581ae0f2d6@ielts-german-plan.local
+UID:6d9d2ec5bec67754@ielts-german-plan.local
 DTSTAMP:20260815T000000Z
-DTSTART;TZID=Asia/Shanghai:20260815T171000
-DTEND;TZID=Asia/Shanghai:20260815T173000
-SUMMARY:雅思新词20-30个：优先直播课词、错题词和核心高
+DTSTART;TZID=Asia/Shanghai:20260815T172500
+DTEND;TZID=Asia/Shanghai:20260815T175500
+SUMMARY:雅思新词30-40个：优先直播课词、错题词和核心高
  频词；若必交作业紧急，本块被作业替换
-DESCRIPTION:雅思新词20-30个：优先直播课词、错题词和核
+DESCRIPTION:雅思新词30-40个：优先直播课词、错题词和核
  心高频词；若必交作业紧急，本块被作业替换。
 CATEGORIES:Vocabulary
 END:VEVENT
@@ -2001,6 +2096,17 @@ DTEND;TZID=Asia/Shanghai:20260815T204000
 SUMMARY:复盘测评6；整理6类口语素材
 DESCRIPTION:复盘测评6；整理6类口语素材。
 CATEGORIES:Mock
+END:VEVENT
+BEGIN:VEVENT
+UID:08a53b73a50af643@ielts-german-plan.local
+DTSTAMP:20260815T000000Z
+DTSTART;TZID=Asia/Shanghai:20260815T205000
+DTEND;TZID=Asia/Shanghai:20260815T213500
+SUMMARY:目标加时（仅德语周验收未达标时）：A2总测20题 
+ + B1口述2分钟
+DESCRIPTION:目标加时（仅德语周验收未达标时）：A2总测20
+ 题 + B1口述2分钟。
+CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
 UID:5de6365f65607c0c@ielts-german-plan.local
@@ -2030,10 +2136,10 @@ DESCRIPTION:只记录分数、最大错因和下周最弱两项。
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:cee0adff8be93f2c@ielts-german-plan.local
+UID:cf5e7dec70156678@ielts-german-plan.local
 DTSTAMP:20260817T000000Z
 DTSTART;TZID=Asia/Shanghai:20260817T102000
-DTEND;TZID=Asia/Shanghai:20260817T113000
+DTEND;TZID=Asia/Shanghai:20260817T115000
 SUMMARY:德语主任务块：B1关系从句
 DESCRIPTION:德语主任务块：B1关系从句。（含白天新词学
  习；睡前只复习旧词）。
@@ -2060,13 +2166,13 @@ DESCRIPTION:精听错题；写同义替换10组；只完成最关键纠
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:717b8e5b7ec5c8e7@ielts-german-plan.local
+UID:93d1f52551c833c4@ielts-german-plan.local
 DTSTAMP:20260817T000000Z
 DTSTART;TZID=Asia/Shanghai:20260817T164500
-DTEND;TZID=Asia/Shanghai:20260817T171500
-SUMMARY:雅思新词30-40个：核心高频词、当日错词和输出词
-DESCRIPTION:雅思新词30-40个：核心高频词、当日错词和输
- 出词。
+DTEND;TZID=Asia/Shanghai:20260817T172500
+SUMMARY:雅思新词40个：核心高频词、当日错词和输出词
+DESCRIPTION:雅思新词40个：核心高频词、当日错词和输出
+ 词。
 CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
@@ -2090,10 +2196,10 @@ DESCRIPTION:雅思旧词15分钟，德语旧词15分钟；不学新词。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:358c5b26a8b1598d@ielts-german-plan.local
+UID:0bf978dc5d456b1c@ielts-german-plan.local
 DTSTAMP:20260818T000000Z
 DTSTART;TZID=Asia/Shanghai:20260818T102000
-DTEND;TZID=Asia/Shanghai:20260818T113000
+DTEND;TZID=Asia/Shanghai:20260818T115000
 SUMMARY:德语主任务块：B1听力1段
 DESCRIPTION:德语主任务块：B1听力1段。（含白天新词学习
  ；睡前只复习旧词）。
@@ -2118,13 +2224,13 @@ DESCRIPTION:复盘定位失败题；只完成最关键纠正动作。
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:ba6b44bf0686bd90@ielts-german-plan.local
+UID:2aa86781a0d9d81c@ielts-german-plan.local
 DTSTAMP:20260818T000000Z
 DTSTART;TZID=Asia/Shanghai:20260818T164500
-DTEND;TZID=Asia/Shanghai:20260818T171500
-SUMMARY:雅思新词30-40个：核心高频词、当日错词和输出词
-DESCRIPTION:雅思新词30-40个：核心高频词、当日错词和输
- 出词。
+DTEND;TZID=Asia/Shanghai:20260818T172500
+SUMMARY:雅思新词40个：核心高频词、当日错词和输出词
+DESCRIPTION:雅思新词40个：核心高频词、当日错词和输出
+ 词。
 CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
@@ -2137,6 +2243,17 @@ DESCRIPTION:口语Part 1 12题。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
+UID:59c9214dbbdbbd70@ielts-german-plan.local
+DTSTAMP:20260818T000000Z
+DTSTART;TZID=Asia/Shanghai:20260818T204500
+DTEND;TZID=Asia/Shanghai:20260818T213000
+SUMMARY:目标加时（仅8月16日雅思闸门未达标时）：最弱
+ 听阅题型10题，或最弱写口任务二改，二选一
+DESCRIPTION:目标加时（仅8月16日雅思闸门未达标时）：最
+ 弱听阅题型10题，或最弱写口任务二改，二选一。
+CATEGORIES:IELTS
+END:VEVENT
+BEGIN:VEVENT
 UID:57a2d5145c0b6333@ielts-german-plan.local
 DTSTAMP:20260818T000000Z
 DTSTART;TZID=Asia/Shanghai:20260818T222000
@@ -2146,10 +2263,10 @@ DESCRIPTION:雅思旧词15分钟，德语旧词15分钟；不学新词。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:b80ec72cbe00c5fe@ielts-german-plan.local
+UID:ffc572c04c00461d@ielts-german-plan.local
 DTSTAMP:20260819T000000Z
 DTSTART;TZID=Asia/Shanghai:20260819T102000
-DTEND;TZID=Asia/Shanghai:20260819T113000
+DTEND;TZID=Asia/Shanghai:20260819T115000
 SUMMARY:德语主任务块：B1短文120词
 DESCRIPTION:德语主任务块：B1短文120词。（含白天新词学
  习；睡前只复习旧词）。
@@ -2176,13 +2293,13 @@ DESCRIPTION:自查审题、结构、例子、语法；只完成最关键
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:9e7bd98eb0fa8ea3@ielts-german-plan.local
+UID:6310019642b55f12@ielts-german-plan.local
 DTSTAMP:20260819T000000Z
 DTSTART;TZID=Asia/Shanghai:20260819T164500
-DTEND;TZID=Asia/Shanghai:20260819T171500
-SUMMARY:雅思新词30-40个：核心高频词、当日错词和输出词
-DESCRIPTION:雅思新词30-40个：核心高频词、当日错词和输
- 出词。
+DTEND;TZID=Asia/Shanghai:20260819T172500
+SUMMARY:雅思新词40个：核心高频词、当日错词和输出词
+DESCRIPTION:雅思新词40个：核心高频词、当日错词和输出
+ 词。
 CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
@@ -2204,10 +2321,10 @@ DESCRIPTION:雅思旧词15分钟，德语旧词15分钟；不学新词。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:9a134495cb52c4d8@ielts-german-plan.local
+UID:3d43544a22502228@ielts-german-plan.local
 DTSTAMP:20260820T000000Z
 DTSTART;TZID=Asia/Shanghai:20260820T102000
-DTEND;TZID=Asia/Shanghai:20260820T113000
+DTEND;TZID=Asia/Shanghai:20260820T115000
 SUMMARY:德语主任务块：Passiv基础
 DESCRIPTION:德语主任务块：Passiv基础。（含白天新词学习
  ；睡前只复习旧词）。
@@ -2232,13 +2349,13 @@ DESCRIPTION:精听答案句；只完成最关键纠正动作。
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:4b7c96169954b557@ielts-german-plan.local
+UID:85e06280dd897396@ielts-german-plan.local
 DTSTAMP:20260820T000000Z
 DTSTART;TZID=Asia/Shanghai:20260820T164500
-DTEND;TZID=Asia/Shanghai:20260820T171500
-SUMMARY:雅思新词30-40个：核心高频词、当日错词和输出词
-DESCRIPTION:雅思新词30-40个：核心高频词、当日错词和输
- 出词。
+DTEND;TZID=Asia/Shanghai:20260820T172500
+SUMMARY:雅思新词40个：核心高频词、当日错词和输出词
+DESCRIPTION:雅思新词40个：核心高频词、当日错词和输出
+ 词。
 CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
@@ -2251,6 +2368,17 @@ DESCRIPTION:阅读判断题专项10题。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
+UID:9eee0faadb940b96@ielts-german-plan.local
+DTSTAMP:20260820T000000Z
+DTSTART;TZID=Asia/Shanghai:20260820T204500
+DTEND;TZID=Asia/Shanghai:20260820T213000
+SUMMARY:目标加时（仅德语周验收未达标时）：Passiv/关系
+ 从句混合10题 + 主动造句5句
+DESCRIPTION:目标加时（仅德语周验收未达标时）：Passiv/关
+ 系从句混合10题 + 主动造句5句。
+CATEGORIES:German
+END:VEVENT
+BEGIN:VEVENT
 UID:cc3edb43d40ce8bd@ielts-german-plan.local
 DTSTAMP:20260820T000000Z
 DTSTART;TZID=Asia/Shanghai:20260820T222000
@@ -2260,10 +2388,10 @@ DESCRIPTION:雅思旧词15分钟，德语旧词15分钟；不学新词。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:53d131ebd4ce84d9@ielts-german-plan.local
+UID:2559522bd4d66930@ielts-german-plan.local
 DTSTAMP:20260821T000000Z
 DTSTART;TZID=Asia/Shanghai:20260821T102000
-DTEND;TZID=Asia/Shanghai:20260821T113000
+DTEND;TZID=Asia/Shanghai:20260821T115000
 SUMMARY:德语主任务块：口头复述专业学习2分钟
 DESCRIPTION:德语主任务块：口头复述专业学习2分钟。（含
  白天新词学习；睡前只复习旧词）。
@@ -2290,13 +2418,13 @@ DESCRIPTION:写作 Task 1 小作文提纲2个；只完成最关键纠正
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
-UID:a12f59a616c2b1b1@ielts-german-plan.local
+UID:ae0516633d540325@ielts-german-plan.local
 DTSTAMP:20260821T000000Z
 DTSTART;TZID=Asia/Shanghai:20260821T164500
-DTEND;TZID=Asia/Shanghai:20260821T171500
-SUMMARY:雅思新词30-40个：核心高频词、当日错词和输出词
-DESCRIPTION:雅思新词30-40个：核心高频词、当日错词和输
- 出词。
+DTEND;TZID=Asia/Shanghai:20260821T172500
+SUMMARY:雅思新词40个：核心高频词、当日错词和输出词
+DESCRIPTION:雅思新词40个：核心高频词、当日错词和输出
+ 词。
 CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
@@ -2320,10 +2448,10 @@ DESCRIPTION:雅思旧词15分钟，德语旧词15分钟；不学新词。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:b3706539e75616aa@ielts-german-plan.local
+UID:0d6264b18bdb0dcd@ielts-german-plan.local
 DTSTAMP:20260822T000000Z
 DTSTART;TZID=Asia/Shanghai:20260822T102000
-DTEND;TZID=Asia/Shanghai:20260822T113000
+DTEND;TZID=Asia/Shanghai:20260822T115000
 SUMMARY:德语主任务块：B1阅读1篇
 DESCRIPTION:德语主任务块：B1阅读1篇。（含白天新词学习
  ；睡前只复习旧词）。
@@ -2391,9 +2519,9 @@ DESCRIPTION:整理8月24线下课要问老师的5个问题。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:8a4098e5839a57af@ielts-german-plan.local
+UID:f623f524b5c95569@ielts-german-plan.local
 DTSTAMP:20260824T000000Z
-DTSTART;TZID=Asia/Shanghai:20260824T083000
+DTSTART;TZID=Asia/Shanghai:20260824T082000
 DTEND;TZID=Asia/Shanghai:20260824T085000
 SUMMARY:线下课预习：复习A2四格、介词支配、动词位置，
  列出3个要问老师的问题
@@ -2411,14 +2539,14 @@ DESCRIPTION:德语线下课（如实际时间不同，整体平移）。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:d3496c9b4614f4b1@ielts-german-plan.local
+UID:af997e3e68e23fa7@ielts-german-plan.local
 DTSTAMP:20260824T000000Z
 DTSTART;TZID=Asia/Shanghai:20260824T143000
-DTEND;TZID=Asia/Shanghai:20260824T151000
+DTEND;TZID=Asia/Shanghai:20260824T153000
 SUMMARY:线下课复盘：整理课堂语法、新词、老师纠错和
- 作业
+ 作业，并完成课堂作业最关键部分
 DESCRIPTION:线下课复盘：整理课堂语法、新词、老师纠错
- 和作业。
+ 和作业，并完成课堂作业最关键部分。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
@@ -2442,9 +2570,9 @@ DESCRIPTION:睡前旧词闪卡复习：英德旧词各15分钟，优先
 CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
-UID:1cd81a84deba194f@ielts-german-plan.local
+UID:ffb30d1e91743cbd@ielts-german-plan.local
 DTSTAMP:20260825T000000Z
-DTSTART;TZID=Asia/Shanghai:20260825T083000
+DTSTART;TZID=Asia/Shanghai:20260825T082000
 DTEND;TZID=Asia/Shanghai:20260825T085000
 SUMMARY:线下课预习：复习A2从句、情态动词、可分动词，
  准备昨日错点
@@ -2462,13 +2590,14 @@ DESCRIPTION:德语线下课。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:61bf77cc00ca9025@ielts-german-plan.local
+UID:d500eb880534c138@ielts-german-plan.local
 DTSTAMP:20260825T000000Z
 DTSTART;TZID=Asia/Shanghai:20260825T143000
-DTEND;TZID=Asia/Shanghai:20260825T151000
-SUMMARY:线下课复盘：把课堂例句改写成5个自己的句子
-DESCRIPTION:线下课复盘：把课堂例句改写成5个自己的句子
- 。
+DTEND;TZID=Asia/Shanghai:20260825T153000
+SUMMARY:线下课复盘：把课堂例句改写成8个自己的句子，
+ 并订正老师指出的错误
+DESCRIPTION:线下课复盘：把课堂例句改写成8个自己的句子
+ ，并订正老师指出的错误。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
@@ -2493,9 +2622,9 @@ DESCRIPTION:睡前旧词闪卡复习：英德旧词各15分钟，优先
 CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
-UID:5061b02ba0684a16@ielts-german-plan.local
+UID:94cc9e647b991fbd@ielts-german-plan.local
 DTSTAMP:20260826T000000Z
-DTSTART;TZID=Asia/Shanghai:20260826T083000
+DTSTART;TZID=Asia/Shanghai:20260826T082000
 DTEND;TZID=Asia/Shanghai:20260826T085000
 SUMMARY:线下课预习：复习B1观点表达、连接词、weil/dass/ob
  wohl/wenn
@@ -2513,14 +2642,14 @@ DESCRIPTION:德语线下课。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:3524e08ddb80221f@ielts-german-plan.local
+UID:6474e191fc85c9d3@ielts-german-plan.local
 DTSTAMP:20260826T000000Z
 DTSTART;TZID=Asia/Shanghai:20260826T143000
-DTEND;TZID=Asia/Shanghai:20260826T151000
-SUMMARY:线下课复盘：写80-100词德语短文，使用3个课堂表
- 达
-DESCRIPTION:线下课复盘：写80-100词德语短文，使用3个课堂
- 表达。
+DTEND;TZID=Asia/Shanghai:20260826T153000
+SUMMARY:线下课复盘：写120词德语短文，使用3个课堂表达
+ 并完成一次自改
+DESCRIPTION:线下课复盘：写120词德语短文，使用3个课堂表
+ 达并完成一次自改。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
@@ -2544,9 +2673,9 @@ DESCRIPTION:睡前旧词闪卡复习：英德旧词各15分钟，优先
 CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
-UID:3c874c0659388f64@ielts-german-plan.local
+UID:0391771a2bb55b8f@ielts-german-plan.local
 DTSTAMP:20260827T000000Z
-DTSTART;TZID=Asia/Shanghai:20260827T083000
+DTSTART;TZID=Asia/Shanghai:20260827T082000
 DTEND;TZID=Asia/Shanghai:20260827T085000
 SUMMARY:线下课预习：复习形容词词尾、比较级、关系从
  句
@@ -2564,14 +2693,14 @@ DESCRIPTION:德语线下课。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:3e2674078a99cb27@ielts-german-plan.local
+UID:4bbf0e5bb75513bc@ielts-german-plan.local
 DTSTAMP:20260827T000000Z
 DTSTART;TZID=Asia/Shanghai:20260827T143000
-DTEND;TZID=Asia/Shanghai:20260827T151000
+DTEND;TZID=Asia/Shanghai:20260827T153000
 SUMMARY:线下课复盘：整理形容词词尾/关系从句错句，各
- 改2句
+ 改4句并口头复述
 DESCRIPTION:线下课复盘：整理形容词词尾/关系从句错句，
- 各改2句。
+ 各改4句并口头复述。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
@@ -2595,9 +2724,9 @@ DESCRIPTION:睡前旧词闪卡复习：英德旧词各15分钟，优先
 CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
-UID:e33faf4c32c8ad75@ielts-german-plan.local
+UID:7c5cd415737e459e@ielts-german-plan.local
 DTSTAMP:20260828T000000Z
-DTSTART;TZID=Asia/Shanghai:20260828T083000
+DTSTART;TZID=Asia/Shanghai:20260828T082000
 DTEND;TZID=Asia/Shanghai:20260828T085000
 SUMMARY:线下课预习：准备2分钟德语口头表达“我的专业/
  我的学习计划”
@@ -2615,14 +2744,14 @@ DESCRIPTION:德语线下课。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:7879d198323b59cf@ielts-german-plan.local
+UID:33f6461f81ed73e8@ielts-german-plan.local
 DTSTAMP:20260828T000000Z
 DTSTART;TZID=Asia/Shanghai:20260828T143000
-DTEND;TZID=Asia/Shanghai:20260828T151000
+DTEND;TZID=Asia/Shanghai:20260828T153000
 SUMMARY:线下课复盘：总结5个最大收获和5个仍不熟的A2/B1
- 点
+ 点，完成一次周测订正
 DESCRIPTION:线下课复盘：总结5个最大收获和5个仍不熟的A2
- /B1点。
+ /B1点，完成一次周测订正。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
@@ -2645,10 +2774,10 @@ DESCRIPTION:睡前旧词闪卡复习：英德旧词各15分钟，优先
 CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
-UID:cd0a5190e93e9aa7@ielts-german-plan.local
+UID:0a0ee58c3b9105f4@ielts-german-plan.local
 DTSTAMP:20260829T000000Z
 DTSTART;TZID=Asia/Shanghai:20260829T102000
-DTEND;TZID=Asia/Shanghai:20260829T113000
+DTEND;TZID=Asia/Shanghai:20260829T115000
 SUMMARY:德语主任务块：B1阅读1篇
 DESCRIPTION:德语主任务块：B1阅读1篇。（含白天新词学习
  ；睡前只复习旧词）。
@@ -2714,10 +2843,10 @@ DESCRIPTION:德语线下课周复盘：整理仍不熟的5个A2/B1点。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:d97ca700afc05502@ielts-german-plan.local
+UID:d2d4f48f6f19f148@ielts-german-plan.local
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Shanghai:20260831T102000
-DTEND;TZID=Asia/Shanghai:20260831T113000
+DTEND;TZID=Asia/Shanghai:20260831T115000
 SUMMARY:德语主任务块：动词支配介词
 DESCRIPTION:德语主任务块：动词支配介词。（含白天新词
  学习；睡前只复习旧词）。
@@ -2742,13 +2871,13 @@ DESCRIPTION:精听错题；只完成最关键纠正动作。
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:5dffa06daf29ed1a@ielts-german-plan.local
+UID:4b6772ad60f4f918@ielts-german-plan.local
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Shanghai:20260831T164500
-DTEND;TZID=Asia/Shanghai:20260831T171500
-SUMMARY:雅思新词30-40个：核心高频词、当日错词和输出词
-DESCRIPTION:雅思新词30-40个：核心高频词、当日错词和输
- 出词。
+DTEND;TZID=Asia/Shanghai:20260831T172500
+SUMMARY:雅思新词40个：核心高频词、当日错词和输出词
+DESCRIPTION:雅思新词40个：核心高频词、当日错词和输出
+ 词。
 CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
@@ -2772,10 +2901,10 @@ DESCRIPTION:雅思旧词15分钟，德语旧词15分钟；不学新词。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:0402946967ee97fd@ielts-german-plan.local
+UID:60609570fccdbc9c@ielts-german-plan.local
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Asia/Shanghai:20260901T102000
-DTEND;TZID=Asia/Shanghai:20260901T113000
+DTEND;TZID=Asia/Shanghai:20260901T115000
 SUMMARY:德语主任务块：B1听力1段
 DESCRIPTION:德语主任务块：B1听力1段。（含白天新词学习
  ；睡前只复习旧词）。
@@ -2800,13 +2929,13 @@ DESCRIPTION:复盘定位失败题；只完成最关键纠正动作。
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:f04747e61415f759@ielts-german-plan.local
+UID:3d4079257087b8d9@ielts-german-plan.local
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Asia/Shanghai:20260901T164500
-DTEND;TZID=Asia/Shanghai:20260901T171500
-SUMMARY:雅思新词30-40个：核心高频词、当日错词和输出词
-DESCRIPTION:雅思新词30-40个：核心高频词、当日错词和输
- 出词。
+DTEND;TZID=Asia/Shanghai:20260901T172500
+SUMMARY:雅思新词40个：核心高频词、当日错词和输出词
+DESCRIPTION:雅思新词40个：核心高频词、当日错词和输出
+ 词。
 CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
@@ -2819,6 +2948,17 @@ DESCRIPTION:口语Part 1 15题。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
+UID:72d3988c55b7bffa@ielts-german-plan.local
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Asia/Shanghai:20260901T204500
+DTEND;TZID=Asia/Shanghai:20260901T213000
+SUMMARY:目标加时（仅8月30日雅思闸门未达标时）：针对
+ 最弱单项做一次小闭环，不做完整套题
+DESCRIPTION:目标加时（仅8月30日雅思闸门未达标时）：针
+ 对最弱单项做一次小闭环，不做完整套题。
+CATEGORIES:IELTS
+END:VEVENT
+BEGIN:VEVENT
 UID:4378dee454062d96@ielts-german-plan.local
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Asia/Shanghai:20260901T222000
@@ -2828,10 +2968,10 @@ DESCRIPTION:雅思旧词15分钟，德语旧词15分钟；不学新词。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:8a176a301eaf0412@ielts-german-plan.local
+UID:7c78def337e2db49@ielts-german-plan.local
 DTSTAMP:20260902T000000Z
 DTSTART;TZID=Asia/Shanghai:20260902T102000
-DTEND;TZID=Asia/Shanghai:20260902T113000
+DTEND;TZID=Asia/Shanghai:20260902T115000
 SUMMARY:德语主任务块：正式邮件150词
 DESCRIPTION:德语主任务块：正式邮件150词。（含白天新词
  学习；睡前只复习旧词）。
@@ -2857,13 +2997,13 @@ DESCRIPTION:二改开头和两个主体段；只完成最关键纠正动
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:dd8608e940878b12@ielts-german-plan.local
+UID:cf7f8a9a9709f8bd@ielts-german-plan.local
 DTSTAMP:20260902T000000Z
 DTSTART;TZID=Asia/Shanghai:20260902T164500
-DTEND;TZID=Asia/Shanghai:20260902T171500
-SUMMARY:雅思新词30-40个：核心高频词、当日错词和输出词
-DESCRIPTION:雅思新词30-40个：核心高频词、当日错词和输
- 出词。
+DTEND;TZID=Asia/Shanghai:20260902T172500
+SUMMARY:雅思新词40个：核心高频词、当日错词和输出词
+DESCRIPTION:雅思新词40个：核心高频词、当日错词和输出
+ 词。
 CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
@@ -2885,10 +3025,10 @@ DESCRIPTION:雅思旧词15分钟，德语旧词15分钟；不学新词。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:cdb4ee66fe34b5c9@ielts-german-plan.local
+UID:57301a0357b5e61f@ielts-german-plan.local
 DTSTAMP:20260903T000000Z
 DTSTART;TZID=Asia/Shanghai:20260903T102000
-DTEND;TZID=Asia/Shanghai:20260903T113000
+DTEND;TZID=Asia/Shanghai:20260903T115000
 SUMMARY:德语主任务块：名词化表达
 DESCRIPTION:德语主任务块：名词化表达。（含白天新词学
  习；睡前只复习旧词）。
@@ -2913,13 +3053,13 @@ DESCRIPTION:精听答案句；只完成最关键纠正动作。
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:fa6e0e4c2f4ed3ee@ielts-german-plan.local
+UID:8ad8faa9c55e549e@ielts-german-plan.local
 DTSTAMP:20260903T000000Z
 DTSTART;TZID=Asia/Shanghai:20260903T164500
-DTEND;TZID=Asia/Shanghai:20260903T171500
-SUMMARY:雅思新词30-40个：核心高频词、当日错词和输出词
-DESCRIPTION:雅思新词30-40个：核心高频词、当日错词和输
- 出词。
+DTEND;TZID=Asia/Shanghai:20260903T172500
+SUMMARY:雅思新词40个：核心高频词、当日错词和输出词
+DESCRIPTION:雅思新词40个：核心高频词、当日错词和输出
+ 词。
 CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
@@ -2932,6 +3072,17 @@ DESCRIPTION:阅读 T/F/NG 专项10题。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
+UID:807571251bb18707@ielts-german-plan.local
+DTSTAMP:20260903T000000Z
+DTSTART;TZID=Asia/Shanghai:20260903T204500
+DTEND;TZID=Asia/Shanghai:20260903T213000
+SUMMARY:目标加时（仅德语周验收未达标时）：名词化/从
+ 句混合10题或120词短文二改，二选一
+DESCRIPTION:目标加时（仅德语周验收未达标时）：名词化/
+ 从句混合10题或120词短文二改，二选一。
+CATEGORIES:German
+END:VEVENT
+BEGIN:VEVENT
 UID:13073d46217bc55b@ielts-german-plan.local
 DTSTAMP:20260903T000000Z
 DTSTART;TZID=Asia/Shanghai:20260903T222000
@@ -2941,10 +3092,10 @@ DESCRIPTION:雅思旧词15分钟，德语旧词15分钟；不学新词。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:b2e2ee9af524597a@ielts-german-plan.local
+UID:92a3f197c5a5c199@ielts-german-plan.local
 DTSTAMP:20260904T000000Z
 DTSTART;TZID=Asia/Shanghai:20260904T102000
-DTEND;TZID=Asia/Shanghai:20260904T113000
+DTEND;TZID=Asia/Shanghai:20260904T115000
 SUMMARY:德语主任务块：赴德读研动机2分钟
 DESCRIPTION:德语主任务块：赴德读研动机2分钟。（含白天
  新词学习；睡前只复习旧词）。
@@ -2969,13 +3120,13 @@ DESCRIPTION:Task 1句型复习10个；只完成最关键纠正动作。
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:b4e1536e628bd5d3@ielts-german-plan.local
+UID:e85f4ff45502bc33@ielts-german-plan.local
 DTSTAMP:20260904T000000Z
 DTSTART;TZID=Asia/Shanghai:20260904T164500
-DTEND;TZID=Asia/Shanghai:20260904T171500
-SUMMARY:雅思新词30-40个：核心高频词、当日错词和输出词
-DESCRIPTION:雅思新词30-40个：核心高频词、当日错词和输
- 出词。
+DTEND;TZID=Asia/Shanghai:20260904T172500
+SUMMARY:雅思新词40个：核心高频词、当日错词和输出词
+DESCRIPTION:雅思新词40个：核心高频词、当日错词和输出
+ 词。
 CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
@@ -2998,10 +3149,10 @@ DESCRIPTION:雅思旧词15分钟，德语旧词15分钟；不学新词。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:6bcca4172f1fd44d@ielts-german-plan.local
+UID:2e2bc400c2ff7a5c@ielts-german-plan.local
 DTSTAMP:20260905T000000Z
 DTSTART;TZID=Asia/Shanghai:20260905T102000
-DTEND;TZID=Asia/Shanghai:20260905T113000
+DTEND;TZID=Asia/Shanghai:20260905T115000
 SUMMARY:德语主任务块：B1阅读1篇
 DESCRIPTION:德语主任务块：B1阅读1篇。（含白天新词学习
  ；睡前只复习旧词）。
@@ -3067,10 +3218,10 @@ DESCRIPTION:德语A2/B1轻复盘，只看旧错点。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:94380d45aef93010@ielts-german-plan.local
+UID:408cf71f00aea4d3@ielts-german-plan.local
 DTSTAMP:20260907T000000Z
 DTSTART;TZID=Asia/Shanghai:20260907T102000
-DTEND;TZID=Asia/Shanghai:20260907T113000
+DTEND;TZID=Asia/Shanghai:20260907T115000
 SUMMARY:德语主任务块：B1语法错题
 DESCRIPTION:德语主任务块：B1语法错题。（含白天新词学
  习；睡前只复习旧词）。
@@ -3095,13 +3246,13 @@ DESCRIPTION:复盘错题15题；只完成最关键纠正动作。
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:cba7f3137cff7a52@ielts-german-plan.local
+UID:bd5f6fec13e4fac3@ielts-german-plan.local
 DTSTAMP:20260907T000000Z
 DTSTART;TZID=Asia/Shanghai:20260907T164500
-DTEND;TZID=Asia/Shanghai:20260907T171500
-SUMMARY:雅思新词30-40个：核心高频词、当日错词和输出词
-DESCRIPTION:雅思新词30-40个：核心高频词、当日错词和输
- 出词。
+DTEND;TZID=Asia/Shanghai:20260907T172500
+SUMMARY:雅思新词40个：核心高频词、当日错词和输出词
+DESCRIPTION:雅思新词40个：核心高频词、当日错词和输出
+ 词。
 CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
@@ -3125,10 +3276,10 @@ DESCRIPTION:雅思旧词15分钟，德语旧词15分钟；不学新词。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:9b3205800d2c9123@ielts-german-plan.local
+UID:ebfcf278c2b42a6d@ielts-german-plan.local
 DTSTAMP:20260908T000000Z
 DTSTART;TZID=Asia/Shanghai:20260908T102000
-DTEND;TZID=Asia/Shanghai:20260908T113000
+DTEND;TZID=Asia/Shanghai:20260908T115000
 SUMMARY:德语主任务块：B1听力1段
 DESCRIPTION:德语主任务块：B1听力1段。（含白天新词学习
  ；睡前只复习旧词）。
@@ -3153,13 +3304,13 @@ DESCRIPTION:复盘错题15题；只完成最关键纠正动作。
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:26967aba57dd2768@ielts-german-plan.local
+UID:907fff25585a4ca4@ielts-german-plan.local
 DTSTAMP:20260908T000000Z
 DTSTART;TZID=Asia/Shanghai:20260908T164500
-DTEND;TZID=Asia/Shanghai:20260908T171500
-SUMMARY:雅思新词30-40个：核心高频词、当日错词和输出词
-DESCRIPTION:雅思新词30-40个：核心高频词、当日错词和输
- 出词。
+DTEND;TZID=Asia/Shanghai:20260908T172500
+SUMMARY:雅思新词40个：核心高频词、当日错词和输出词
+DESCRIPTION:雅思新词40个：核心高频词、当日错词和输出
+ 词。
 CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
@@ -3172,6 +3323,17 @@ DESCRIPTION:德语复述5句。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
+UID:fbc8d14e2634e5c8@ielts-german-plan.local
+DTSTAMP:20260908T000000Z
+DTSTART;TZID=Asia/Shanghai:20260908T204500
+DTEND;TZID=Asia/Shanghai:20260908T213000
+SUMMARY:目标加时（仅雅思最近两次模考未达6.5时）：最
+ 弱题型10题并完成证据化复盘
+DESCRIPTION:目标加时（仅雅思最近两次模考未达6.5时）：
+ 最弱题型10题并完成证据化复盘。
+CATEGORIES:Mock
+END:VEVENT
+BEGIN:VEVENT
 UID:e2a24492ac35030e@ielts-german-plan.local
 DTSTAMP:20260908T000000Z
 DTSTART;TZID=Asia/Shanghai:20260908T222000
@@ -3181,10 +3343,10 @@ DESCRIPTION:雅思旧词15分钟，德语旧词15分钟；不学新词。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:50c4746fd8ade5af@ielts-german-plan.local
+UID:f1b19d54bb3eff87@ielts-german-plan.local
 DTSTAMP:20260909T000000Z
 DTSTART;TZID=Asia/Shanghai:20260909T102000
-DTEND;TZID=Asia/Shanghai:20260909T113000
+DTEND;TZID=Asia/Shanghai:20260909T115000
 SUMMARY:德语主任务块：120词短文
 DESCRIPTION:德语主任务块：120词短文。（含白天新词学习
  ；睡前只复习旧词）。
@@ -3211,13 +3373,13 @@ DESCRIPTION:自查审题、结构、例子、语法；只完成最关键
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:887155d4f8811839@ielts-german-plan.local
+UID:d0f07e82418adc11@ielts-german-plan.local
 DTSTAMP:20260909T000000Z
 DTSTART;TZID=Asia/Shanghai:20260909T164500
-DTEND;TZID=Asia/Shanghai:20260909T171500
-SUMMARY:雅思新词30-40个：核心高频词、当日错词和输出词
-DESCRIPTION:雅思新词30-40个：核心高频词、当日错词和输
- 出词。
+DTEND;TZID=Asia/Shanghai:20260909T172500
+SUMMARY:雅思新词40个：核心高频词、当日错词和输出词
+DESCRIPTION:雅思新词40个：核心高频词、当日错词和输出
+ 词。
 CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
@@ -3239,10 +3401,10 @@ DESCRIPTION:雅思旧词15分钟，德语旧词15分钟；不学新词。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:af77125a4f3b7b72@ielts-german-plan.local
+UID:22f288abb1d64529@ielts-german-plan.local
 DTSTAMP:20260910T000000Z
 DTSTART;TZID=Asia/Shanghai:20260910T102000
-DTEND;TZID=Asia/Shanghai:20260910T113000
+DTEND;TZID=Asia/Shanghai:20260910T115000
 SUMMARY:德语主任务块：口头复述2分钟
 DESCRIPTION:德语主任务块：口头复述2分钟。（含白天新词
  学习；睡前只复习旧词）。
@@ -3268,13 +3430,13 @@ DESCRIPTION:复盘停顿、语法、发音；只完成最关键纠正动
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:05855f7a983330e0@ielts-german-plan.local
+UID:558e08a6042708d1@ielts-german-plan.local
 DTSTAMP:20260910T000000Z
 DTSTART;TZID=Asia/Shanghai:20260910T164500
-DTEND;TZID=Asia/Shanghai:20260910T171500
-SUMMARY:雅思新词30-40个：核心高频词、当日错词和输出词
-DESCRIPTION:雅思新词30-40个：核心高频词、当日错词和输
- 出词。
+DTEND;TZID=Asia/Shanghai:20260910T172500
+SUMMARY:雅思新词40个：核心高频词、当日错词和输出词
+DESCRIPTION:雅思新词40个：核心高频词、当日错词和输出
+ 词。
 CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
@@ -3287,6 +3449,17 @@ DESCRIPTION:阅读长难句3句。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
+UID:64786df36260920c@ielts-german-plan.local
+DTSTAMP:20260910T000000Z
+DTSTART;TZID=Asia/Shanghai:20260910T204500
+DTEND;TZID=Asia/Shanghai:20260910T213000
+SUMMARY:目标加时（仅德语周验收未达标时）：2分钟口述
+ 重录 + 5个固定语法错误订正
+DESCRIPTION:目标加时（仅德语周验收未达标时）：2分钟口
+ 述重录 + 5个固定语法错误订正。
+CATEGORIES:German
+END:VEVENT
+BEGIN:VEVENT
 UID:b7e3a3dc47e2a162@ielts-german-plan.local
 DTSTAMP:20260910T000000Z
 DTSTART;TZID=Asia/Shanghai:20260910T222000
@@ -3296,10 +3469,10 @@ DESCRIPTION:雅思旧词15分钟，德语旧词15分钟；不学新词。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:bb1e522eab3f7366@ielts-german-plan.local
+UID:85e34b13a72e7df7@ielts-german-plan.local
 DTSTAMP:20260911T000000Z
 DTSTART;TZID=Asia/Shanghai:20260911T102000
-DTEND;TZID=Asia/Shanghai:20260911T113000
+DTEND;TZID=Asia/Shanghai:20260911T115000
 SUMMARY:德语主任务块：从句和词尾总复习
 DESCRIPTION:德语主任务块：从句和词尾总复习。（含白天
  新词学习；睡前只复习旧词）。
@@ -3324,13 +3497,13 @@ DESCRIPTION:写作提纲4个；只完成最关键纠正动作。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
-UID:cdcf848c92be88ac@ielts-german-plan.local
+UID:1dac889beb1f215c@ielts-german-plan.local
 DTSTAMP:20260911T000000Z
 DTSTART;TZID=Asia/Shanghai:20260911T164500
-DTEND;TZID=Asia/Shanghai:20260911T171500
-SUMMARY:雅思新词30-40个：核心高频词、当日错词和输出词
-DESCRIPTION:雅思新词30-40个：核心高频词、当日错词和输
- 出词。
+DTEND;TZID=Asia/Shanghai:20260911T172500
+SUMMARY:雅思新词40个：核心高频词、当日错词和输出词
+DESCRIPTION:雅思新词40个：核心高频词、当日错词和输出
+ 词。
 CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
@@ -3354,10 +3527,10 @@ DESCRIPTION:雅思旧词15分钟，德语旧词15分钟；不学新词。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:150a2c9be584faf5@ielts-german-plan.local
+UID:6ead1f5c86a2518e@ielts-german-plan.local
 DTSTAMP:20260912T000000Z
 DTSTART;TZID=Asia/Shanghai:20260912T102000
-DTEND;TZID=Asia/Shanghai:20260912T113000
+DTEND;TZID=Asia/Shanghai:20260912T115000
 SUMMARY:德语主任务块：B1阅读1篇
 DESCRIPTION:德语主任务块：B1阅读1篇。（含白天新词学习
  ；睡前只复习旧词）。
@@ -3424,10 +3597,10 @@ DESCRIPTION:德语只复习旧错点，不学新语法。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:8e0c86ce9a494f20@ielts-german-plan.local
+UID:654091ef19cd72f1@ielts-german-plan.local
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Asia/Shanghai:20260914T102000
-DTEND;TZID=Asia/Shanghai:20260914T113000
+DTEND;TZID=Asia/Shanghai:20260914T115000
 SUMMARY:德语主任务块：保持手感
 DESCRIPTION:德语主任务块：保持手感。（含白天新词学习
  ；睡前只复习旧词）。
@@ -3454,13 +3627,13 @@ DESCRIPTION:复盘拼写、大小写、单复数；只完成最关键纠
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:900f43e4eab538a9@ielts-german-plan.local
+UID:e492ecb1e804d24e@ielts-german-plan.local
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Asia/Shanghai:20260914T164500
-DTEND;TZID=Asia/Shanghai:20260914T171500
-SUMMARY:雅思新词30-40个：核心高频词、当日错词和输出词
-DESCRIPTION:雅思新词30-40个：核心高频词、当日错词和输
- 出词。
+DTEND;TZID=Asia/Shanghai:20260914T172500
+SUMMARY:雅思新词40个：核心高频词、当日错词和输出词
+DESCRIPTION:雅思新词40个：核心高频词、当日错词和输出
+ 词。
 CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
@@ -3482,10 +3655,10 @@ DESCRIPTION:雅思旧词15分钟，德语旧词15分钟；不学新词。
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:7c75927c773ff367@ielts-german-plan.local
+UID:66e19c9b6c33c6ac@ielts-german-plan.local
 DTSTAMP:20260915T000000Z
 DTSTART;TZID=Asia/Shanghai:20260915T102000
-DTEND;TZID=Asia/Shanghai:20260915T113000
+DTEND;TZID=Asia/Shanghai:20260915T115000
 SUMMARY:德语主任务块：听力10分钟
 DESCRIPTION:德语主任务块：听力10分钟。（含白天新词学
  习；睡前只复习旧词）。
@@ -3510,13 +3683,13 @@ DESCRIPTION:复盘判断题/匹配题；只完成最关键纠正动作。
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:7617e550fb6b39cd@ielts-german-plan.local
+UID:791cc0881de9891e@ielts-german-plan.local
 DTSTAMP:20260915T000000Z
 DTSTART;TZID=Asia/Shanghai:20260915T164500
-DTEND;TZID=Asia/Shanghai:20260915T171500
-SUMMARY:雅思新词30-40个：核心高频词、当日错词和输出词
-DESCRIPTION:雅思新词30-40个：核心高频词、当日错词和输
- 出词。
+DTEND;TZID=Asia/Shanghai:20260915T172500
+SUMMARY:雅思新词40个：核心高频词、当日错词和输出词
+DESCRIPTION:雅思新词40个：核心高频词、当日错词和输出
+ 词。
 CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
