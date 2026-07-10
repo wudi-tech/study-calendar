@@ -2146,12 +2146,14 @@ DESCRIPTION:德语主任务块：B1关系从句。（含白天新词学
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:0d442e0d0711a2ac@ielts-german-plan.local
+UID:17ddaf11f60bdfb3@ielts-german-plan.local
 DTSTAMP:20260817T000000Z
 DTSTART;TZID=Asia/Shanghai:20260817T143000
 DTEND;TZID=Asia/Shanghai:20260817T160000
-SUMMARY:听力 C19T1S1/S2 或同难度 Section 1-2 共20题
-DESCRIPTION:听力 C19T1S1/S2 或同难度 Section 1-2 共20题。
+SUMMARY:听力 C15-C18 未做过的 Section 1 或 Section 2 任选1个（
+ 10题），...
+DESCRIPTION:听力 C15-C18 未做过的 Section 1 或 Section 2 任选1
+ 个（10题），做完完成精听复盘。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
@@ -2206,12 +2208,14 @@ DESCRIPTION:德语主任务块：B1听力1段。（含白天新词学习
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:8d8ecdbc9c7eb9c8@ielts-german-plan.local
+UID:32e53579401989f6@ielts-german-plan.local
 DTSTAMP:20260818T000000Z
 DTSTART;TZID=Asia/Shanghai:20260818T143000
 DTEND;TZID=Asia/Shanghai:20260818T160000
-SUMMARY:阅读 C19T1P1 + C19T1P2，严格40分钟
-DESCRIPTION:阅读 C19T1P1 + C19T1P2，严格40分钟。
+SUMMARY:阅读 C15-C18 未做过的 Passage 任选1篇，限时20分钟
+ ，剩余时间完整复盘
+DESCRIPTION:阅读 C15-C18 未做过的 Passage 任选1篇，限时20分
+ 钟，剩余时间完整复盘。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
@@ -2273,12 +2277,13 @@ DESCRIPTION:德语主任务块：B1短文120词。（含白天新词学
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:13109b52659bb32e@ielts-german-plan.local
+UID:25d59080967a69ec@ielts-german-plan.local
 DTSTAMP:20260819T000000Z
 DTSTART;TZID=Asia/Shanghai:20260819T143000
 DTEND;TZID=Asia/Shanghai:20260819T160000
-SUMMARY:写作 C19 或 C20 任一 Test Task 2 限时40分钟
-DESCRIPTION:写作 C19 或 C20 任一 Test Task 2 限时40分钟。
+SUMMARY:写作 C15-C18 未做过的 Task 2 任选1题，限时40分钟
+DESCRIPTION:写作 C15-C18 未做过的 Task 2 任选1题，限时40分
+ 钟。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
@@ -2331,12 +2336,14 @@ DESCRIPTION:德语主任务块：Passiv基础。（含白天新词学习
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:34ca02c7fb434d70@ielts-german-plan.local
+UID:25cfc6759247efcf@ielts-german-plan.local
 DTSTAMP:20260820T000000Z
 DTSTART;TZID=Asia/Shanghai:20260820T143000
 DTEND;TZID=Asia/Shanghai:20260820T160000
-SUMMARY:听力 C19T1S3/S4 或同难度 Section 3-4 共20题
-DESCRIPTION:听力 C19T1S3/S4 或同难度 Section 3-4 共20题。
+SUMMARY:听力 C15-C18 未做过的 Section 3 或 Section 4 任选1个（
+ 10题），...
+DESCRIPTION:听力 C15-C18 未做过的 Section 3 或 Section 4 任选1
+ 个（10题），剩余时间精听答案句。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
@@ -2458,13 +2465,13 @@ DESCRIPTION:德语主任务块：B1阅读1篇。（含白天新词学习
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:8619a9b4577cb2af@ielts-german-plan.local
+UID:47db6d318920a79b@ielts-german-plan.local
 DTSTAMP:20260822T000000Z
 DTSTART;TZID=Asia/Shanghai:20260822T140000
 DTEND;TZID=Asia/Shanghai:20260822T170000
-SUMMARY:未污染完整模考：剑21 Test 1，听力40题+阅读3篇+写
+SUMMARY:未污染完整模考：剑19 Test 1，听力40题+阅读3篇+写
  作Task 1/2；此前不得拆做本...
-DESCRIPTION:未污染完整模考：剑21 Test 1，听力40题+阅读3篇
+DESCRIPTION:未污染完整模考：剑19 Test 1，听力40题+阅读3篇
  +写作Task 1/2；此前不得拆做本套题。
 CATEGORIES:Mock
 END:VEVENT
@@ -2601,14 +2608,14 @@ DESCRIPTION:线下课复盘：把课堂例句改写成8个自己的句子
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:1da5bdd46a6454a4@ielts-german-plan.local
+UID:b6ef1faa20a48b9b@ielts-german-plan.local
 DTSTAMP:20260825T000000Z
 DTSTART;TZID=Asia/Shanghai:20260825T153000
 DTEND;TZID=Asia/Shanghai:20260825T161000
-SUMMARY:雅思保底：阅读C19/C20 Passage 1一篇，限时20分钟并
- 复盘2题
-DESCRIPTION:雅思保底：阅读C19/C20 Passage 1一篇，限时20分钟
- 并复盘2题。
+SUMMARY:雅思保底：阅读C15-C18未做过的Passage 1一篇，限时2
+ 0分钟并复盘2题
+DESCRIPTION:雅思保底：阅读C15-C18未做过的Passage 1一篇，限
+ 时20分钟并复盘2题。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
@@ -2784,13 +2791,13 @@ DESCRIPTION:德语主任务块：B1阅读1篇。（含白天新词学习
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:24e48467d772811b@ielts-german-plan.local
+UID:9992190e632906f3@ielts-german-plan.local
 DTSTAMP:20260829T000000Z
 DTSTART;TZID=Asia/Shanghai:20260829T140000
 DTEND;TZID=Asia/Shanghai:20260829T170000
-SUMMARY:未污染完整模考：剑21 Test 2；此前不得拆做本套
+SUMMARY:未污染完整模考：剑20 Test 1；此前不得拆做本套
  题
-DESCRIPTION:未污染完整模考：剑21 Test 2；此前不得拆做本
+DESCRIPTION:未污染完整模考：剑20 Test 1；此前不得拆做本
  套题。
 CATEGORIES:Mock
 END:VEVENT
@@ -2853,12 +2860,14 @@ DESCRIPTION:德语主任务块：动词支配介词。（含白天新词
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:d485e89edd623a62@ielts-german-plan.local
+UID:d2876d4af22abc3d@ielts-german-plan.local
 DTSTAMP:20260831T000000Z
 DTSTART;TZID=Asia/Shanghai:20260831T143000
 DTEND;TZID=Asia/Shanghai:20260831T160000
-SUMMARY:听力 Section 1-2 共20题，目标最多错3题
-DESCRIPTION:听力 Section 1-2 共20题，目标最多错3题。
+SUMMARY:听力 C15-C18 未做过的 Section 1 或 Section 2 任选1个，
+ 目标最多错...
+DESCRIPTION:听力 C15-C18 未做过的 Section 1 或 Section 2 任选1
+ 个，目标最多错2题并完成精听。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
@@ -2911,12 +2920,14 @@ DESCRIPTION:德语主任务块：B1听力1段。（含白天新词学习
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:5bb15fdecbc4899e@ielts-german-plan.local
+UID:453469d47c49d0e3@ielts-german-plan.local
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Asia/Shanghai:20260901T143000
 DTEND;TZID=Asia/Shanghai:20260901T160000
-SUMMARY:阅读 C19T4P1/P2 或 C20T3P1/P2
-DESCRIPTION:阅读 C19T4P1/P2 或 C20T3P1/P2。
+SUMMARY:阅读 C15-C18 未做过的 Passage 任选1篇，限时20分钟
+ 并完成证据化复盘
+DESCRIPTION:阅读 C15-C18 未做过的 Passage 任选1篇，限时20分
+ 钟并完成证据化复盘。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
@@ -2978,12 +2989,12 @@ DESCRIPTION:德语主任务块：正式邮件150词。（含白天新词
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:83d348a0c0560146@ielts-german-plan.local
+UID:345933648a10fe9f@ielts-german-plan.local
 DTSTAMP:20260902T000000Z
 DTSTART;TZID=Asia/Shanghai:20260902T143000
 DTEND;TZID=Asia/Shanghai:20260902T160000
-SUMMARY:写作 Task 2 一篇
-DESCRIPTION:写作 Task 2 一篇。
+SUMMARY:写作 C15-C18 未做过的 Task 2 任选1题
+DESCRIPTION:写作 C15-C18 未做过的 Task 2 任选1题。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
@@ -3035,12 +3046,14 @@ DESCRIPTION:德语主任务块：名词化表达。（含白天新词学
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:11ec3fae753a87c7@ielts-german-plan.local
+UID:3d739e48da5b4523@ielts-german-plan.local
 DTSTAMP:20260903T000000Z
 DTSTART;TZID=Asia/Shanghai:20260903T143000
 DTEND;TZID=Asia/Shanghai:20260903T160000
-SUMMARY:听力 Section 3-4 共20题
-DESCRIPTION:听力 Section 3-4 共20题。
+SUMMARY:听力 C15-C18 未做过的 Section 3 或 Section 4 任选1个，
+ 剩余时间精...
+DESCRIPTION:听力 C15-C18 未做过的 Section 3 或 Section 4 任选1
+ 个，剩余时间精听复盘。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
@@ -3159,13 +3172,13 @@ DESCRIPTION:德语主任务块：B1阅读1篇。（含白天新词学习
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:6a33640a810b8002@ielts-german-plan.local
+UID:b313a52909c1dfb6@ielts-german-plan.local
 DTSTAMP:20260905T000000Z
 DTSTART;TZID=Asia/Shanghai:20260905T140000
 DTEND;TZID=Asia/Shanghai:20260905T170000
-SUMMARY:未污染完整模考：剑21 Test 3；此前不得拆做本套
+SUMMARY:未污染完整模考：剑21 Test 1；此前不得拆做本套
  题
-DESCRIPTION:未污染完整模考：剑21 Test 3；此前不得拆做本
+DESCRIPTION:未污染完整模考：剑21 Test 1；此前不得拆做本
  套题。
 CATEGORIES:Mock
 END:VEVENT
@@ -3228,12 +3241,14 @@ DESCRIPTION:德语主任务块：B1语法错题。（含白天新词学
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:22d03dd77a1bb594@ielts-german-plan.local
+UID:db7a16b28fe2e655@ielts-german-plan.local
 DTSTAMP:20260907T000000Z
 DTSTART;TZID=Asia/Shanghai:20260907T143000
 DTEND;TZID=Asia/Shanghai:20260907T160000
-SUMMARY:听力完整40题，严格计时
-DESCRIPTION:听力完整40题，严格计时。
+SUMMARY:考前模块模拟：剑21 Test 3听力完整40题，严格计时
+ ；不得拆成零散专项
+DESCRIPTION:考前模块模拟：剑21 Test 3听力完整40题，严格
+ 计时；不得拆成零散专项。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
@@ -3286,12 +3301,14 @@ DESCRIPTION:德语主任务块：B1听力1段。（含白天新词学习
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:14d7a290f610691d@ielts-german-plan.local
+UID:399edcf5c86f268c@ielts-german-plan.local
 DTSTAMP:20260908T000000Z
 DTSTART;TZID=Asia/Shanghai:20260908T143000
 DTEND;TZID=Asia/Shanghai:20260908T160000
-SUMMARY:阅读完整3篇，严格60分钟
-DESCRIPTION:阅读完整3篇，严格60分钟。
+SUMMARY:考前模块模拟：剑21 Test 3阅读完整3篇，严格60分
+ 钟
+DESCRIPTION:考前模块模拟：剑21 Test 3阅读完整3篇，严格60
+ 分钟。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
@@ -3353,12 +3370,14 @@ DESCRIPTION:德语主任务块：120词短文。（含白天新词学习
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:6c91469af879ca01@ielts-german-plan.local
+UID:78091c386c8ccdc8@ielts-german-plan.local
 DTSTAMP:20260909T000000Z
 DTSTART;TZID=Asia/Shanghai:20260909T143000
 DTEND;TZID=Asia/Shanghai:20260909T160000
-SUMMARY:写作 Task 1 + Task 2 全套限时
-DESCRIPTION:写作 Task 1 + Task 2 全套限时。
+SUMMARY:考前模块模拟：剑21 Test 3写作 Task 1 + Task 2 全套限
+ 时
+DESCRIPTION:考前模块模拟：剑21 Test 3写作 Task 1 + Task 2 全
+ 套限时。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
@@ -3479,12 +3498,14 @@ DESCRIPTION:德语主任务块：从句和词尾总复习。（含白天
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:13beee08b0fe639c@ielts-german-plan.local
+UID:7e53a8e2f246d49a@ielts-german-plan.local
 DTSTAMP:20260911T000000Z
 DTSTART;TZID=Asia/Shanghai:20260911T143000
 DTEND;TZID=Asia/Shanghai:20260911T160000
-SUMMARY:听力20题 + 阅读1篇
-DESCRIPTION:听力20题 + 阅读1篇。
+SUMMARY:C15-C18未做题中，听力Section任选1个 + 阅读Passage任
+ 选1篇，均完成简要复...
+DESCRIPTION:C15-C18未做题中，听力Section任选1个 + 阅读Passage
+ 任选1篇，均完成简要复盘。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
@@ -3537,13 +3558,13 @@ DESCRIPTION:德语主任务块：B1阅读1篇。（含白天新词学习
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:d8c4da342e7a2858@ielts-german-plan.local
+UID:c67471165eadab5e@ielts-german-plan.local
 DTSTAMP:20260912T000000Z
 DTSTART;TZID=Asia/Shanghai:20260912T140000
 DTEND;TZID=Asia/Shanghai:20260912T170000
-SUMMARY:最后一次未污染完整模考：剑21 Test 4；此前不得
+SUMMARY:最后一次未污染完整模考：剑21 Test 2；此前不得
  拆做本套题
-DESCRIPTION:最后一次未污染完整模考：剑21 Test 4；此前不
+DESCRIPTION:最后一次未污染完整模考：剑21 Test 2；此前不
  得拆做本套题。
 CATEGORIES:Mock
 END:VEVENT
@@ -3607,12 +3628,14 @@ DESCRIPTION:德语主任务块：保持手感。（含白天新词学习
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:7a654d7f48604b23@ielts-german-plan.local
+UID:195654e7899a5af7@ielts-german-plan.local
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Asia/Shanghai:20260914T143000
 DTEND;TZID=Asia/Shanghai:20260914T160000
-SUMMARY:听力 Section 1-2 共20题
-DESCRIPTION:听力 Section 1-2 共20题。
+SUMMARY:听力 C15-C18 旧题Section 1或2任选1个，保持手感，不
+ 启用剑19-C21新材料
+DESCRIPTION:听力 C15-C18 旧题Section 1或2任选1个，保持手感
+ ，不启用剑19-C21新材料。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
@@ -3665,12 +3688,14 @@ DESCRIPTION:德语主任务块：听力10分钟。（含白天新词学
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:359f863c0fb66645@ielts-german-plan.local
+UID:a3f621bbc40dbabb@ielts-german-plan.local
 DTSTAMP:20260915T000000Z
 DTSTART;TZID=Asia/Shanghai:20260915T143000
 DTEND;TZID=Asia/Shanghai:20260915T160000
-SUMMARY:阅读2篇，限时40分钟
-DESCRIPTION:阅读2篇，限时40分钟。
+SUMMARY:阅读 C15-C18 旧题Passage任选1篇，限时20分钟；其余
+ 时间复盘，不启用新材料
+DESCRIPTION:阅读 C15-C18 旧题Passage任选1篇，限时20分钟；其
+ 余时间复盘，不启用新材料。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
