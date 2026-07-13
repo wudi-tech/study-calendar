@@ -324,37 +324,15 @@ DESCRIPTION:大小作文批改1。
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:a7193bea70848d82@ielts-german-plan.local
+UID:4373b1a9d683a714@ielts-german-plan.local
 DTSTAMP:20260713T000000Z
 DTSTART;TZID=Asia/Shanghai:20260713T143000
-DTEND;TZID=Asia/Shanghai:20260713T150500
-SUMMARY:老师额外作业：听力作业：整理课堂练习生词并
- 准备下节课听写
-DESCRIPTION:微信群作业：听力作业：整理课堂练习生词并
- 准备下节课听写\n截止：2026-07-14 20:00\n状态：截止前安
- 排\n本次：35分钟；总预计：35分钟\n优先级：high\n原文
- ：截图来源：7.7 雅思听力强化课1作业。整理课堂练习
- 生词，准备下节课听写；课堂讲义 C9T2P1 词汇 PDF 文件见
- 群，下次课上抽查，报英文说中英文。
-CATEGORIES:Homework
-END:VEVENT
-BEGIN:VEVENT
-UID:8514fe02a95a1adf@ielts-german-plan.local
-DTSTAMP:20260713T000000Z
-DTSTART;TZID=Asia/Shanghai:20260713T150500
 DTEND;TZID=Asia/Shanghai:20260713T153000
-SUMMARY:老师额外作业：听力作业：C14T1P1 + C15T4P1 完成并
- 按要求复盘
-DESCRIPTION:微信群作业：听力作业：C14T1P1 + C15T4P1 完成并
- 按要求复盘\n截止：2026-07-14 20:00\n状态：截止前安排\n本
- 次：25分钟；总预计：100分钟\n优先级：high\n原文：截图
- 来源：7.7 雅思听力强化课1作业。完成剑桥雅思真题练
- 习 C14T1P1、C15T4P1（作业讲义）。听前按方法读题，不提
- 前查生词；一听后若不确定较多，不对答案，回听全文
- ，再比对两次答案；整理错题与词汇，错的要分析，错
- 的改对的也要分析。音频、答案、原文见新东方雅思PRO
- 或 https://liuxue.koolearn.com/ielts/listen/ 。
-CATEGORIES:Homework
+SUMMARY:APS周任务：核对APS/TestAS适用路径、材料状态，并
+ 确认成绩单中是否有至少5学分控制工程...
+DESCRIPTION:APS周任务：核对APS/TestAS适用路径、材料状态，
+ 并确认成绩单中是否有至少5学分控制工程相关课程。
+CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
 UID:5c5153845e6c16be@ielts-german-plan.local
@@ -367,25 +345,17 @@ DESCRIPTION:德语主任务块：复习 Perfekt。（含白天新词学
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:c5aa827bbb93b51c@ielts-german-plan.local
+UID:ad0a1025fb472705@ielts-german-plan.local
 DTSTAMP:20260713T000000Z
 DTSTART;TZID=Asia/Shanghai:20260713T193000
 DTEND;TZID=Asia/Shanghai:20260713T201500
-SUMMARY:老师额外作业：听力作业：C14T1P1 + C15T4P1 完成并
- 按要求复盘
-DESCRIPTION:微信群作业：听力作业：C14T1P1 + C15T4P1 完成并
- 按要求复盘\n截止：2026-07-14 20:00\n状态：截止前安排\n本
- 次：45分钟；总预计：100分钟\n优先级：high\n原文：截图
- 来源：7.7 雅思听力强化课1作业。完成剑桥雅思真题练
- 习 C14T1P1、C15T4P1（作业讲义）。听前按方法读题，不提
- 前查生词；一听后若不确定较多，不对答案，回听全文
- ，再比对两次答案；整理错题与词汇，错的要分析，错
- 的改对的也要分析。音频、答案、原文见新东方雅思PRO
- 或 https://liuxue.koolearn.com/ielts/listen/ 。\n\n【当日题库刷
- 题计划（老师作业完成后有余量再做）】\n- 复盘：完成
- 老师必交L-C14T1P1与L-C15T4P1；逐题标注预测、听辨、拼写
- 、同义替换或干扰项错因，不加新题。
-CATEGORIES:Homework
+SUMMARY:动态补做：昨日遗留任务
+DESCRIPTION:动态调整生成。原则：只补最关键欠账，不牺
+ 牲当天固定课程。\\n昨日未完成，今天只补最关键一项
+ ，并替换今日低优先级任务：\n- 10:20-11:20 完成写作强化
+ 3闭环：地图Task 1写提纲+Overview，流程图完成结构和关键
+ 动词整理
+CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
 UID:a07340ed3010c64c@ielts-german-plan.local
@@ -407,22 +377,39 @@ DESCRIPTION:直播口语强化4。讲义配套：Part 2 物品类、核
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
-UID:4b90fdfabac1ad1d@ielts-german-plan.local
+UID:d707330e79b94e1c@ielts-german-plan.local
 DTSTAMP:20260714T000000Z
 DTSTART;TZID=Asia/Shanghai:20260714T143000
-DTEND;TZID=Asia/Shanghai:20260714T153000
-SUMMARY:老师额外作业：写作作业：趋势图 Task 1 全文写作
-DESCRIPTION:微信群作业：写作作业：趋势图 Task 1 全文写
- 作\n截止：2026-07-13 10:15\n状态：已逾期，按72小时恢复窗
- 口重新安排\n本次：60分钟；总预计：90分钟\n优先级：hi
- gh\n原文：截图来源：7.11 写作强化2课后消息。课堂学习
- 复杂图的核心句型和复杂句应用；课下完成趋势图全文
- 写作。参考附件：趋势图(2).pdf、静态图(1).pdf。完成标
- 准：Introduction、清晰Overview、两个主体段、至少3处课堂
- 复杂结构；写完按TA/CC/LR/GRA自查一次。\n\n【当日题库刷
+DTEND;TZID=Asia/Shanghai:20260714T150500
+SUMMARY:老师额外作业：听力作业：整理课堂练习生词并
+ 准备下节课听写
+DESCRIPTION:微信群作业：听力作业：整理课堂练习生词并
+ 准备下节课听写\n截止：2026-07-14 20:00\n状态：截止前安
+ 排\n本次：35分钟；总预计：35分钟\n优先级：high\n原文
+ ：截图来源：7.7 雅思听力强化课1作业。整理课堂练习
+ 生词，准备下节课听写；课堂讲义 C9T2P1 词汇 PDF 文件见
+ 群，下次课上抽查，报英文说中英文。\n\n【当日题库刷
  题计划（老师作业完成后有余量再做）】\n- 复盘：完成
  听力生词听写准备及到期口语作业；若仍有欠账，不做
  自主新题。
+CATEGORIES:Homework
+END:VEVENT
+BEGIN:VEVENT
+UID:81164cd66a0493a7@ielts-german-plan.local
+DTSTAMP:20260714T000000Z
+DTSTART;TZID=Asia/Shanghai:20260714T150500
+DTEND;TZID=Asia/Shanghai:20260714T153000
+SUMMARY:老师额外作业：听力作业：C14T1P1 + C15T4P1 完成并
+ 按要求复盘
+DESCRIPTION:微信群作业：听力作业：C14T1P1 + C15T4P1 完成并
+ 按要求复盘\n截止：2026-07-14 20:00\n状态：截止前安排\n本
+ 次：25分钟；总预计：100分钟\n优先级：high\n原文：截图
+ 来源：7.7 雅思听力强化课1作业。完成剑桥雅思真题练
+ 习 C14T1P1、C15T4P1（作业讲义）。听前按方法读题，不提
+ 前查生词；一听后若不确定较多，不对答案，回听全文
+ ，再比对两次答案；整理错题与词汇，错的要分析，错
+ 的改对的也要分析。音频、答案、原文见新东方雅思PRO
+ 或 https://liuxue.koolearn.com/ielts/listen/ 。
 CATEGORIES:Homework
 END:VEVENT
 BEGIN:VEVENT
@@ -436,14 +423,32 @@ DESCRIPTION:德语主任务块：复习 Praeteritum 高频动词。（含
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:a5be5b94633ed642@ielts-german-plan.local
+UID:622b11d1ba4f1cfa@ielts-german-plan.local
 DTSTAMP:20260714T000000Z
 DTSTART;TZID=Asia/Shanghai:20260714T193000
 DTEND;TZID=Asia/Shanghai:20260714T200000
+SUMMARY:老师额外作业：听力作业：C14T1P1 + C15T4P1 完成并
+ 按要求复盘
+DESCRIPTION:微信群作业：听力作业：C14T1P1 + C15T4P1 完成并
+ 按要求复盘\n截止：2026-07-14 20:00\n状态：截止前安排\n本
+ 次：30分钟；总预计：100分钟\n优先级：high\n原文：截图
+ 来源：7.7 雅思听力强化课1作业。完成剑桥雅思真题练
+ 习 C14T1P1、C15T4P1（作业讲义）。听前按方法读题，不提
+ 前查生词；一听后若不确定较多，不对答案，回听全文
+ ，再比对两次答案；整理错题与词汇，错的要分析，错
+ 的改对的也要分析。音频、答案、原文见新东方雅思PRO
+ 或 https://liuxue.koolearn.com/ielts/listen/ 。
+CATEGORIES:Homework
+END:VEVENT
+BEGIN:VEVENT
+UID:5e2e88d80478d186@ielts-german-plan.local
+DTSTAMP:20260714T000000Z
+DTSTART;TZID=Asia/Shanghai:20260714T200000
+DTEND;TZID=Asia/Shanghai:20260714T201500
 SUMMARY:老师额外作业：写作作业：趋势图 Task 1 全文写作
 DESCRIPTION:微信群作业：写作作业：趋势图 Task 1 全文写
  作\n截止：2026-07-13 10:15\n状态：已逾期，按72小时恢复窗
- 口重新安排\n本次：30分钟；总预计：90分钟\n优先级：hi
+ 口重新安排\n本次：15分钟；总预计：90分钟\n优先级：hi
  gh\n原文：截图来源：7.11 写作强化2课后消息。课堂学习
  复杂图的核心句型和复杂句应用；课下完成趋势图全文
  写作。参考附件：趋势图(2).pdf、静态图(1).pdf。完成标
@@ -574,29 +579,41 @@ DESCRIPTION:微信群作业：阅读强化2作业4：C10T3P3 Q27-31\n截
 CATEGORIES:Homework
 END:VEVENT
 BEGIN:VEVENT
-UID:4d7e4d896c99f434@ielts-german-plan.local
+UID:7c5f34c5ae037296@ielts-german-plan.local
 DTSTAMP:20260716T000000Z
 DTSTART;TZID=Asia/Shanghai:20260716T193000
-DTEND;TZID=Asia/Shanghai:20260716T204000
-SUMMARY:题库计划｜听力作业 C15T1P2
-DESCRIPTION:听力作业 C15T1P2；错题回听并写“题干表达 -> 
- 原文表达”8组。\n\n【当日题库刷题计划】\n- 听力必做
- ：老师作业L-C15T1P2 Q11-20；完整做完，复盘单选干扰项并
- 写8组“选项表达 -> 原文表达”。\n- 听力加练：仅在老
- 师作业和复盘完成、且当日目标加时被触发时，网站单
- 选题 > 剑10 > 系统顺序第1组前8题。
-CATEGORIES:IELTS
+DTEND;TZID=Asia/Shanghai:20260716T203500
+SUMMARY:老师额外作业：写作作业：趋势图 Task 1 全文写作
+DESCRIPTION:微信群作业：写作作业：趋势图 Task 1 全文写
+ 作\n截止：2026-07-13 10:15\n状态：已逾期，按72小时恢复窗
+ 口重新安排\n本次：65分钟；总预计：90分钟\n优先级：hi
+ gh\n原文：截图来源：7.11 写作强化2课后消息。课堂学习
+ 复杂图的核心句型和复杂句应用；课下完成趋势图全文
+ 写作。参考附件：趋势图(2).pdf、静态图(1).pdf。完成标
+ 准：Introduction、清晰Overview、两个主体段、至少3处课堂
+ 复杂结构；写完按TA/CC/LR/GRA自查一次。\n\n【当日题库刷
+ 题计划（老师作业完成后有余量再做）】\n- 听力必做：
+ 老师作业L-C15T1P2 Q11-20；完整做完，复盘单选干扰项并写
+ 8组“选项表达 -> 原文表达”。\n- 听力加练：仅在老师
+ 作业和复盘完成、且当日目标加时被触发时，网站单选
+ 题 > 剑10 > 系统顺序第1组前8题。
+CATEGORIES:Homework
 END:VEVENT
 BEGIN:VEVENT
-UID:dfc95717980906ee@ielts-german-plan.local
+UID:b668723cad728674@ielts-german-plan.local
 DTSTAMP:20260716T000000Z
 DTSTART;TZID=Asia/Shanghai:20260716T205000
-DTEND;TZID=Asia/Shanghai:20260716T213500
-SUMMARY:目标加时（仅未达标时）：从今天单选题错因中
- 选最弱一类，再做同题型8-10题并复盘
-DESCRIPTION:目标加时（仅未达标时）：从今天单选题错因
- 中选最弱一类，再做同题型8-10题并复盘。
-CATEGORIES:Study
+DTEND;TZID=Asia/Shanghai:20260716T210000
+SUMMARY:老师额外作业：写作作业：趋势图 Task 1 全文写作
+DESCRIPTION:微信群作业：写作作业：趋势图 Task 1 全文写
+ 作\n截止：2026-07-13 10:15\n状态：已逾期，按72小时恢复窗
+ 口重新安排\n本次：10分钟；总预计：90分钟\n优先级：hi
+ gh\n原文：截图来源：7.11 写作强化2课后消息。课堂学习
+ 复杂图的核心句型和复杂句应用；课下完成趋势图全文
+ 写作。参考附件：趋势图(2).pdf、静态图(1).pdf。完成标
+ 准：Introduction、清晰Overview、两个主体段、至少3处课堂
+ 复杂结构；写完按TA/CC/LR/GRA自查一次。
+CATEGORIES:Homework
 END:VEVENT
 BEGIN:VEVENT
 UID:85dfdcff30bcb282@ielts-german-plan.local
