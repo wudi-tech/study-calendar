@@ -398,16 +398,17 @@ DESCRIPTION:德语主任务块：复习 Praeteritum 高频动词。（含
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:1fb1eca4eefa43e7@ielts-german-plan.local
+UID:e37edff57cc13f59@ielts-german-plan.local
 DTSTAMP:20260714T000000Z
 DTSTART;TZID=Asia/Shanghai:20260714T193000
 DTEND;TZID=Asia/Shanghai:20260714T201500
 SUMMARY:动态补做：昨日遗留任务
 DESCRIPTION:动态调整生成。原则：只补最关键欠账，不牺
  牲当天固定课程。\\n昨日未完成，今天只补最关键一项
- ，并替换今日低优先级任务：\n- 16:00-17:15 德语主任务块
- ：复习 Perfekt
-CATEGORIES:German
+ ，并替换今日低优先级任务：\n- 19:30-20:15 作文二改只修
+ Overview或一个主体段；老师必交听力作业由作业调度按
+ 截止期替换其他雅思块。
+CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
 UID:efa96dbfae8a1170@ielts-german-plan.local
