@@ -398,17 +398,17 @@ DESCRIPTION:德语主任务块：复习 Praeteritum 高频动词。（含
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:e37edff57cc13f59@ielts-german-plan.local
+UID:8ad0912f871cad79@ielts-german-plan.local
 DTSTAMP:20260714T000000Z
 DTSTART;TZID=Asia/Shanghai:20260714T193000
 DTEND;TZID=Asia/Shanghai:20260714T201500
-SUMMARY:动态补做：昨日遗留任务
-DESCRIPTION:动态调整生成。原则：只补最关键欠账，不牺
- 牲当天固定课程。\\n昨日未完成，今天只补最关键一项
- ，并替换今日低优先级任务：\n- 19:30-20:15 作文二改只修
- Overview或一个主体段；老师必交听力作业由作业调度按
- 截止期替换其他雅思块。
-CATEGORIES:IELTS
+SUMMARY:题库计划｜口语只录1道物品题，按“背景-细节-
+ 变化-感受”检查结构
+DESCRIPTION:口语只录1道物品题，按“背景-细节-变化-感受
+ ”检查结构。\n\n【当日题库刷题计划】\n- 复盘：完成
+ 听力生词听写准备及到期口语作业；若仍有欠账，不做
+ 自主新题。
+CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
 UID:efa96dbfae8a1170@ielts-german-plan.local
@@ -449,46 +449,27 @@ DESCRIPTION:德语主任务块：复习情态动词。（含白天新词
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:7f7e2f2113b4a701@ielts-german-plan.local
+UID:918c9f50cf566b2f@ielts-german-plan.local
 DTSTAMP:20260715T000000Z
 DTSTART;TZID=Asia/Shanghai:20260715T172500
 DTEND;TZID=Asia/Shanghai:20260715T175500
-SUMMARY:老师额外作业：阅读强化2作业3：C10T4P2 Q14-18
-DESCRIPTION:微信群作业：阅读强化2作业3：C10T4P2 Q14-18\n截
- 止：2026-07-17 08:00\n状态：截止前安排\n本次：30分钟；总
- 预计：30分钟\n优先级：high\n原文：Lesson 2 慧眼识珠-填
- 空题。按课堂填空方法完成5题，逐题标出定位词、原文
- 句和语法匹配。
-CATEGORIES:Homework
+SUMMARY:雅思新词30-40个：优先直播课词、错题词和核心高
+ 频词；若必交作业紧急，本块被作业替换
+DESCRIPTION:雅思新词30-40个：优先直播课词、错题词和核
+ 心高频词；若必交作业紧急，本块被作业替换。
+CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
-UID:e8bd0eda5510e768@ielts-german-plan.local
+UID:927be2c3237d705f@ielts-german-plan.local
 DTSTAMP:20260715T000000Z
 DTSTART;TZID=Asia/Shanghai:20260715T193000
-DTEND;TZID=Asia/Shanghai:20260715T200500
-SUMMARY:老师额外作业：阅读强化2作业1：C11T1P3 Q30-36
-DESCRIPTION:微信群作业：阅读强化2作业1：C11T1P3 Q30-36\n截
- 止：2026-07-17 08:00\n状态：截止前安排\n本次：35分钟；总
- 预计：35分钟\n优先级：high\n原文：Lesson 2 慧眼识珠-填
- 空题。先看字数限制和空格词性，再定位原文；完成后
- 记录原文表达、题干替换和错因。\n\n【当日题库刷题计
- 划（老师作业完成后有余量再做）】\n- 听力必做：老师
+DTEND;TZID=Asia/Shanghai:20260715T204000
+SUMMARY:题库计划｜听力作业 C13T1P1 10题
+DESCRIPTION:听力作业 C13T1P1 10题；写作同意与否题写2个立
+ 场提纲。\n\n【当日题库刷题计划】\n- 听力必做：老师
  作业L-C13T1P1 Q1-10；按特殊填空课方法预测词性、检查单
  复数和拼写，错题回听答案句。
-CATEGORIES:Homework
-END:VEVENT
-BEGIN:VEVENT
-UID:263e4e32aaf5018c@ielts-german-plan.local
-DTSTAMP:20260715T000000Z
-DTSTART;TZID=Asia/Shanghai:20260715T200500
-DTEND;TZID=Asia/Shanghai:20260715T204000
-SUMMARY:老师额外作业：阅读强化2作业2：C12T3P2 Q20-26
-DESCRIPTION:微信群作业：阅读强化2作业2：C12T3P2 Q20-26\n截
- 止：2026-07-17 08:00\n状态：截止前安排\n本次：35分钟；总
- 预计：35分钟\n优先级：high\n原文：Lesson 2 慧眼识珠-填
- 空题。先预测词性和语法形式，限时完成；复盘定位句
- 、同义替换和答案形式。
-CATEGORIES:Homework
+CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
 UID:a67d95b449305e64@ielts-german-plan.local
@@ -520,54 +501,40 @@ DESCRIPTION:德语主任务块：复习句框结构。（含白天新词
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:56cc63b0988d36f6@ielts-german-plan.local
+UID:54aed27d5ddc9921@ielts-german-plan.local
 DTSTAMP:20260716T000000Z
 DTSTART;TZID=Asia/Shanghai:20260716T172500
 DTEND;TZID=Asia/Shanghai:20260716T175500
-SUMMARY:老师额外作业：阅读强化2作业4：C10T3P3 Q27-31
-DESCRIPTION:微信群作业：阅读强化2作业4：C10T3P3 Q27-31\n截
- 止：2026-07-17 08:00\n状态：截止前安排\n本次：30分钟；总
- 预计：30分钟\n优先级：high\n原文：Lesson 2 慧眼识珠-填
- 空题。按课堂填空方法完成5题；错题写清定位失败、词
- 汇替换或语法判断问题。
-CATEGORIES:Homework
+SUMMARY:雅思新词30-40个：优先直播课词、错题词和核心高
+ 频词；若必交作业紧急，本块被作业替换
+DESCRIPTION:雅思新词30-40个：优先直播课词、错题词和核
+ 心高频词；若必交作业紧急，本块被作业替换。
+CATEGORIES:Vocabulary
 END:VEVENT
 BEGIN:VEVENT
-UID:b21dad0e3795fd81@ielts-german-plan.local
+UID:4d7e4d896c99f434@ielts-german-plan.local
 DTSTAMP:20260716T000000Z
 DTSTART;TZID=Asia/Shanghai:20260716T193000
 DTEND;TZID=Asia/Shanghai:20260716T204000
-SUMMARY:老师额外作业：写作作业：趋势图 Task 1 全文写作
-DESCRIPTION:微信群作业：写作作业：趋势图 Task 1 全文写
- 作\n截止：2026-07-13 10:15\n状态：已逾期，按72小时恢复窗
- 口重新安排\n本次：70分钟；总预计：90分钟\n优先级：hi
- gh\n原文：截图来源：7.11 写作强化2课后消息。课堂学习
- 复杂图的核心句型和复杂句应用；课下完成趋势图全文
- 写作。参考附件：趋势图(2).pdf、静态图(1).pdf。完成标
- 准：Introduction、清晰Overview、两个主体段、至少3处课堂
- 复杂结构；写完按TA/CC/LR/GRA自查一次。\n\n【当日题库刷
- 题计划（老师作业完成后有余量再做）】\n- 听力必做：
- 老师作业L-C15T1P2 Q11-20；完整做完，复盘单选干扰项并写
- 8组“选项表达 -> 原文表达”。\n- 听力加练：仅在老师
- 作业和复盘完成、且当日目标加时被触发时，网站单选
- 题 > 剑10 > 系统顺序第1组前8题。
-CATEGORIES:Homework
+SUMMARY:题库计划｜听力作业 C15T1P2
+DESCRIPTION:听力作业 C15T1P2；错题回听并写“题干表达 -> 
+ 原文表达”8组。\n\n【当日题库刷题计划】\n- 听力必做
+ ：老师作业L-C15T1P2 Q11-20；完整做完，复盘单选干扰项并
+ 写8组“选项表达 -> 原文表达”。\n- 听力加练：仅在老
+ 师作业和复盘完成、且当日目标加时被触发时，网站单
+ 选题 > 剑10 > 系统顺序第1组前8题。
+CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
-UID:3283db9cff2ea025@ielts-german-plan.local
+UID:dfc95717980906ee@ielts-german-plan.local
 DTSTAMP:20260716T000000Z
 DTSTART;TZID=Asia/Shanghai:20260716T205000
-DTEND;TZID=Asia/Shanghai:20260716T211000
-SUMMARY:老师额外作业：写作作业：趋势图 Task 1 全文写作
-DESCRIPTION:微信群作业：写作作业：趋势图 Task 1 全文写
- 作\n截止：2026-07-13 10:15\n状态：已逾期，按72小时恢复窗
- 口重新安排\n本次：20分钟；总预计：90分钟\n优先级：hi
- gh\n原文：截图来源：7.11 写作强化2课后消息。课堂学习
- 复杂图的核心句型和复杂句应用；课下完成趋势图全文
- 写作。参考附件：趋势图(2).pdf、静态图(1).pdf。完成标
- 准：Introduction、清晰Overview、两个主体段、至少3处课堂
- 复杂结构；写完按TA/CC/LR/GRA自查一次。
-CATEGORIES:Homework
+DTEND;TZID=Asia/Shanghai:20260716T213500
+SUMMARY:目标加时（仅未达标时）：从今天单选题错因中
+ 选最弱一类，再做同题型8-10题并复盘
+DESCRIPTION:目标加时（仅未达标时）：从今天单选题错因
+ 中选最弱一类，再做同题型8-10题并复盘。
+CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
 UID:85dfdcff30bcb282@ielts-german-plan.local
@@ -608,35 +575,54 @@ DESCRIPTION:德语主任务块：复习主句/从句动词位置。（含
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:a0206ebdf8ee1677@ielts-german-plan.local
+UID:4246b8e13a13787b@ielts-german-plan.local
 DTSTAMP:20260717T000000Z
 DTSTART;TZID=Asia/Shanghai:20260717T172500
 DTEND;TZID=Asia/Shanghai:20260717T175500
-SUMMARY:雅思新词30-40个：优先直播课词、错题词和核心高
- 频词；若必交作业紧急，本块被作业替换
-DESCRIPTION:雅思新词30-40个：优先直播课词、错题词和核
- 心高频词；若必交作业紧急，本块被作业替换。
-CATEGORIES:Vocabulary
+SUMMARY:老师额外作业：写作作业：趋势图 Task 1 全文写作
+DESCRIPTION:微信群作业：写作作业：趋势图 Task 1 全文写
+ 作\n截止：2026-07-13 10:15\n状态：已逾期，按72小时恢复窗
+ 口重新安排\n本次：30分钟；总预计：90分钟\n优先级：hi
+ gh\n原文：截图来源：7.11 写作强化2课后消息。课堂学习
+ 复杂图的核心句型和复杂句应用；课下完成趋势图全文
+ 写作。参考附件：趋势图(2).pdf、静态图(1).pdf。完成标
+ 准：Introduction、清晰Overview、两个主体段、至少3处课堂
+ 复杂结构；写完按TA/CC/LR/GRA自查一次。
+CATEGORIES:Homework
 END:VEVENT
 BEGIN:VEVENT
-UID:7f387a448f5f4cf1@ielts-german-plan.local
+UID:84caf8dbda200db3@ielts-german-plan.local
 DTSTAMP:20260717T000000Z
 DTSTART;TZID=Asia/Shanghai:20260717T193000
-DTEND;TZID=Asia/Shanghai:20260717T200500
-SUMMARY:老师额外作业：听力作业：整理课堂练习生词并
- 准备下节课听写
-DESCRIPTION:微信群作业：听力作业：整理课堂练习生词并
- 准备下节课听写\n截止：2026-07-14 20:00\n状态：已逾期，
- 按72小时恢复窗口重新安排\n本次：35分钟；总预计：35
- 分钟\n优先级：high\n原文：截图来源：7.7 雅思听力强化
- 课1作业。整理课堂练习生词，准备下节课听写；课堂讲
- 义 C9T2P1 词汇 PDF 文件见群，下次课上抽查，报英文说中
- 英文。\n\n【当日题库刷题计划（老师作业完成后有余量
- 再做）】\n- 阅读必做：老师Lesson 2四组填空作业R-C11T1P3 
- Q30-36、R-C12T3P2 Q20-26、R-C10T4P2 Q14-18、R-C10T3P3 Q27-31在课前
- 完成。\n- 听力必做：老师作业L-C12T3P2 Q11-20；按多选课
- 方法解释每个干扰项。\n- 阅读轻练：晚间只启动老师Les
- son 3作业R-C14T1P3前半，不加题型池。
+DTEND;TZID=Asia/Shanghai:20260717T203000
+SUMMARY:老师额外作业：写作作业：趋势图 Task 1 全文写作
+DESCRIPTION:微信群作业：写作作业：趋势图 Task 1 全文写
+ 作\n截止：2026-07-13 10:15\n状态：已逾期，按72小时恢复窗
+ 口重新安排\n本次：60分钟；总预计：90分钟\n优先级：hi
+ gh\n原文：截图来源：7.11 写作强化2课后消息。课堂学习
+ 复杂图的核心句型和复杂句应用；课下完成趋势图全文
+ 写作。参考附件：趋势图(2).pdf、静态图(1).pdf。完成标
+ 准：Introduction、清晰Overview、两个主体段、至少3处课堂
+ 复杂结构；写完按TA/CC/LR/GRA自查一次。\n\n【当日题库刷
+ 题计划（老师作业完成后有余量再做）】\n- 阅读必做：
+ 老师Lesson 2四组填空作业R-C11T1P3 Q30-36、R-C12T3P2 Q20-26、R-C
+ 10T4P2 Q14-18、R-C10T3P3 Q27-31在课前完成。\n- 听力必做：老
+ 师作业L-C12T3P2 Q11-20；按多选课方法解释每个干扰项。\n-
+  阅读轻练：晚间只启动老师Lesson 3作业R-C14T1P3前半，不
+ 加题型池。
+CATEGORIES:Homework
+END:VEVENT
+BEGIN:VEVENT
+UID:14e9592d077d0562@ielts-german-plan.local
+DTSTAMP:20260717T000000Z
+DTSTART;TZID=Asia/Shanghai:20260717T203000
+DTEND;TZID=Asia/Shanghai:20260717T204000
+SUMMARY:老师额外作业：阅读强化2作业4：C10T3P3 Q27-31
+DESCRIPTION:微信群作业：阅读强化2作业4：C10T3P3 Q27-31\n截
+ 止：2026-07-17 08:00\n状态：已逾期，按72小时恢复窗口重
+ 新安排\n本次：10分钟；总预计：30分钟\n优先级：high\n
+ 原文：Lesson 2 慧眼识珠-填空题。按课堂填空方法完成5
+ 题；错题写清定位失败、词汇替换或语法判断问题。
 CATEGORIES:Homework
 END:VEVENT
 BEGIN:VEVENT
@@ -669,30 +655,49 @@ DESCRIPTION:德语主任务块：复习 weil/dass 从句。（含白天
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:fb0e2cbf2946333c@ielts-german-plan.local
+UID:d52454d3b12e9621@ielts-german-plan.local
 DTSTAMP:20260718T000000Z
 DTSTART;TZID=Asia/Shanghai:20260718T172500
 DTEND;TZID=Asia/Shanghai:20260718T175500
-SUMMARY:雅思新词30-40个：优先直播课词、错题词和核心高
- 频词；若必交作业紧急，本块被作业替换
-DESCRIPTION:雅思新词30-40个：优先直播课词、错题词和核
- 心高频词；若必交作业紧急，本块被作业替换。
-CATEGORIES:Vocabulary
+SUMMARY:老师额外作业：阅读强化2作业3：C10T4P2 Q14-18
+DESCRIPTION:微信群作业：阅读强化2作业3：C10T4P2 Q14-18\n截
+ 止：2026-07-17 08:00\n状态：已逾期，按72小时恢复窗口重
+ 新安排\n本次：30分钟；总预计：30分钟\n优先级：high\n
+ 原文：Lesson 2 慧眼识珠-填空题。按课堂填空方法完成5
+ 题，逐题标出定位词、原文句和语法匹配。
+CATEGORIES:Homework
 END:VEVENT
 BEGIN:VEVENT
-UID:cb03a7fc15ad378b@ielts-german-plan.local
+UID:b9bb2e443136eb74@ielts-german-plan.local
 DTSTAMP:20260718T000000Z
 DTSTART;TZID=Asia/Shanghai:20260718T193000
-DTEND;TZID=Asia/Shanghai:20260718T203000
-SUMMARY:老师额外作业：阅读强化3作业1：C14T1P3
-DESCRIPTION:微信群作业：阅读强化3作业1：C14T1P3\n截止：20
- 26-07-22 10:15\n状态：截止前安排\n本次：60分钟；总预计
- ：60分钟\n优先级：high\n原文：Lesson 3 局部精读-细节匹
- 配。限时做完整Passage；复盘每道匹配题的定位句、特征
- 词和同义替换。\n\n【当日题库刷题计划（老师作业完成
- 后有余量再做）】\n- 阅读必做：继续老师Lesson 3作业R-C1
- 4T1P3后半；完成整篇定位句和细节匹配证据链。\n- 网站
- 加练：无。写作Task 2主体段优先。
+DTEND;TZID=Asia/Shanghai:20260718T200500
+SUMMARY:老师额外作业：听力作业：整理课堂练习生词并
+ 准备下节课听写
+DESCRIPTION:微信群作业：听力作业：整理课堂练习生词并
+ 准备下节课听写\n截止：2026-07-14 20:00\n状态：已逾期，
+ 按72小时恢复窗口重新安排\n本次：35分钟；总预计：35
+ 分钟\n优先级：high\n原文：截图来源：7.7 雅思听力强化
+ 课1作业。整理课堂练习生词，准备下节课听写；课堂讲
+ 义 C9T2P1 词汇 PDF 文件见群，下次课上抽查，报英文说中
+ 英文。\n\n【当日题库刷题计划（老师作业完成后有余量
+ 再做）】\n- 阅读必做：继续老师Lesson 3作业R-C14T1P3后半
+ ；完成整篇定位句和细节匹配证据链。\n- 网站加练：无
+ 。写作Task 2主体段优先。
+CATEGORIES:Homework
+END:VEVENT
+BEGIN:VEVENT
+UID:ce564afc070a5303@ielts-german-plan.local
+DTSTAMP:20260718T000000Z
+DTSTART;TZID=Asia/Shanghai:20260718T200500
+DTEND;TZID=Asia/Shanghai:20260718T204000
+SUMMARY:老师额外作业：阅读强化2作业1：C11T1P3 Q30-36
+DESCRIPTION:微信群作业：阅读强化2作业1：C11T1P3 Q30-36\n截
+ 止：2026-07-17 08:00\n状态：已逾期，按72小时恢复窗口重
+ 新安排\n本次：35分钟；总预计：35分钟\n优先级：high\n
+ 原文：Lesson 2 慧眼识珠-填空题。先看字数限制和空格词
+ 性，再定位原文；完成后记录原文表达、题干替换和错
+ 因。
 CATEGORIES:Homework
 END:VEVENT
 BEGIN:VEVENT
@@ -725,18 +730,32 @@ DESCRIPTION:雅思口语诊断2。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
-UID:48f8c66fc0d11322@ielts-german-plan.local
+UID:d5efdbcf5153b3ed@ielts-german-plan.local
 DTSTAMP:20260719T000000Z
 DTSTART;TZID=Asia/Shanghai:20260719T123000
-DTEND;TZID=Asia/Shanghai:20260719T133000
-SUMMARY:老师额外作业：阅读强化3作业2：C11T4P1
-DESCRIPTION:微信群作业：阅读强化3作业2：C11T4P1\n截止：20
- 26-07-22 10:15\n状态：截止前安排\n本次：60分钟；总预计
- ：60分钟\n优先级：high\n原文：Lesson 3 局部精读-细节匹
- 配。完成整篇并标出人物/对象、特征和原文证据链。\n\
- n【当日题库刷题计划（老师作业完成后有余量再做）】
- \n- 复盘：周日只重做本周听力单选/多选错题5道或阅读
- 填空错题5道，二选一。
+DTEND;TZID=Asia/Shanghai:20260719T130500
+SUMMARY:老师额外作业：阅读强化2作业2：C12T3P2 Q20-26
+DESCRIPTION:微信群作业：阅读强化2作业2：C12T3P2 Q20-26\n截
+ 止：2026-07-17 08:00\n状态：已逾期，按72小时恢复窗口重
+ 新安排\n本次：35分钟；总预计：35分钟\n优先级：high\n
+ 原文：Lesson 2 慧眼识珠-填空题。先预测词性和语法形式
+ ，限时完成；复盘定位句、同义替换和答案形式。\n\n【
+ 当日题库刷题计划（老师作业完成后有余量再做）】\n- 
+ 复盘：周日只重做本周听力单选/多选错题5道或阅读填
+ 空错题5道，二选一。
+CATEGORIES:Homework
+END:VEVENT
+BEGIN:VEVENT
+UID:ee5b2d4b69dedc2c@ielts-german-plan.local
+DTSTAMP:20260719T000000Z
+DTSTART;TZID=Asia/Shanghai:20260719T130500
+DTEND;TZID=Asia/Shanghai:20260719T132500
+SUMMARY:老师额外作业：阅读强化2作业4：C10T3P3 Q27-31
+DESCRIPTION:微信群作业：阅读强化2作业4：C10T3P3 Q27-31\n截
+ 止：2026-07-17 08:00\n状态：已逾期，按72小时恢复窗口重
+ 新安排\n本次：20分钟；总预计：30分钟\n优先级：high\n
+ 原文：Lesson 2 慧眼识珠-填空题。按课堂填空方法完成5
+ 题；错题写清定位失败、词汇替换或语法判断问题。
 CATEGORIES:Homework
 END:VEVENT
 BEGIN:VEVENT
@@ -760,19 +779,19 @@ DESCRIPTION:大小作文批改2。
 CATEGORIES:Study
 END:VEVENT
 BEGIN:VEVENT
-UID:ace78f2be6fae7a3@ielts-german-plan.local
+UID:4397ecff22347c68@ielts-german-plan.local
 DTSTAMP:20260720T000000Z
 DTSTART;TZID=Asia/Shanghai:20260720T143000
 DTEND;TZID=Asia/Shanghai:20260720T153000
-SUMMARY:老师额外作业：阅读强化3作业3：C6T2P2
-DESCRIPTION:微信群作业：阅读强化3作业3：C6T2P2\n截止：202
- 6-07-22 10:15\n状态：截止前安排\n本次：60分钟；总预计：
- 60分钟\n优先级：high\n原文：Lesson 3 局部精读-细节匹配
- 。老师指定题，允许使用剑6；完成整篇并复盘细节匹配
- 证据。\n\n【当日题库刷题计划（老师作业完成后有余量
- 再做）】\n- 阅读必做：老师Lesson 3作业R-C11T4P1，限时20
- 分钟，随后完成特征词、定位句和匹配证据。\n- 网站加
- 练：无。作文二改和到期阅读作业优先。
+SUMMARY:老师额外作业：阅读强化3作业1：C14T1P3
+DESCRIPTION:微信群作业：阅读强化3作业1：C14T1P3\n截止：20
+ 26-07-22 10:15\n状态：截止前安排\n本次：60分钟；总预计
+ ：60分钟\n优先级：high\n原文：Lesson 3 局部精读-细节匹
+ 配。限时做完整Passage；复盘每道匹配题的定位句、特征
+ 词和同义替换。\n\n【当日题库刷题计划（老师作业完成
+ 后有余量再做）】\n- 阅读必做：老师Lesson 3作业R-C11T4P1
+ ，限时20分钟，随后完成特征词、定位句和匹配证据。\n
+ - 网站加练：无。作文二改和到期阅读作业优先。
 CATEGORIES:Homework
 END:VEVENT
 BEGIN:VEVENT
@@ -786,13 +805,17 @@ DESCRIPTION:德语主任务块：比较级/最高级。（含白天新词
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:04eca4d74f1b0496@ielts-german-plan.local
+UID:c73ab2a145f17538@ielts-german-plan.local
 DTSTAMP:20260720T000000Z
 DTSTART;TZID=Asia/Shanghai:20260720T193000
 DTEND;TZID=Asia/Shanghai:20260720T201500
-SUMMARY:作文二改只修一个段落；不再叠加听力新题
-DESCRIPTION:作文二改只修一个段落；不再叠加听力新题。
-CATEGORIES:IELTS
+SUMMARY:老师额外作业：阅读强化3作业3：C6T2P2
+DESCRIPTION:微信群作业：阅读强化3作业3：C6T2P2\n截止：202
+ 6-07-22 10:15\n状态：截止前安排\n本次：45分钟；总预计：
+ 60分钟\n优先级：high\n原文：Lesson 3 局部精读-细节匹配
+ 。老师指定题，允许使用剑6；完成整篇并复盘细节匹配
+ 证据。
+CATEGORIES:Homework
 END:VEVENT
 BEGIN:VEVENT
 UID:d985e6711632d4df@ielts-german-plan.local
@@ -813,15 +836,20 @@ DESCRIPTION:直播口语强化5。讲义配套：Part 2 事件类。
 CATEGORIES:IELTS
 END:VEVENT
 BEGIN:VEVENT
-UID:a672bd3aad86897a@ielts-german-plan.local
+UID:8f3888342b4004a0@ielts-german-plan.local
 DTSTAMP:20260721T000000Z
 DTSTART;TZID=Asia/Shanghai:20260721T143000
 DTEND;TZID=Asia/Shanghai:20260721T153000
-SUMMARY:GRE轻启动：算术、比例、百分数专项20题，错题只
- 记录一个可复用规则
-DESCRIPTION:GRE轻启动：算术、比例、百分数专项20题，错
- 题只记录一个可复用规则。
-CATEGORIES:Study
+SUMMARY:老师额外作业：阅读强化3作业2：C11T4P1
+DESCRIPTION:微信群作业：阅读强化3作业2：C11T4P1\n截止：20
+ 26-07-22 10:15\n状态：截止前安排\n本次：60分钟；总预计
+ ：60分钟\n优先级：high\n原文：Lesson 3 局部精读-细节匹
+ 配。完成整篇并标出人物/对象、特征和原文证据链。\n\
+ n【当日题库刷题计划（老师作业完成后有余量再做）】
+ \n- 阅读必做：老师Lesson 3作业R-C6T2P2；这是老师指定题
+ ，可使用剑6，做完整Passage并复盘细节匹配。\n- 网站加
+ 练：无。确保三篇阅读作业在7月22日上课前收口。
+CATEGORIES:Homework
 END:VEVENT
 BEGIN:VEVENT
 UID:98a13baf86176786@ielts-german-plan.local
@@ -834,18 +862,17 @@ DESCRIPTION:德语主任务块：介词支配格。（含白天新词学
 CATEGORIES:German
 END:VEVENT
 BEGIN:VEVENT
-UID:3fa11141c9216c85@ielts-german-plan.local
+UID:b7430219260808a1@ielts-german-plan.local
 DTSTAMP:20260721T000000Z
 DTSTART;TZID=Asia/Shanghai:20260721T193000
-DTEND;TZID=Asia/Shanghai:20260721T201500
-SUMMARY:题库计划｜口语事件类只录1题，补齐“时间-地点
- -冲突-结果-感受”
-DESCRIPTION:口语事件类只录1题，补齐“时间-地点-冲突-结
- 果-感受”。\n\n【当日题库刷题计划】\n- 阅读必做：老
- 师Lesson 3作业R-C6T2P2；这是老师指定题，可使用剑6，做
- 完整Passage并复盘细节匹配。\n- 网站加练：无。确保三
- 篇阅读作业在7月22日上课前收口。
-CATEGORIES:IELTS
+DTEND;TZID=Asia/Shanghai:20260721T194500
+SUMMARY:老师额外作业：阅读强化3作业3：C6T2P2
+DESCRIPTION:微信群作业：阅读强化3作业3：C6T2P2\n截止：202
+ 6-07-22 10:15\n状态：截止前安排\n本次：15分钟；总预计：
+ 60分钟\n优先级：high\n原文：Lesson 3 局部精读-细节匹配
+ 。老师指定题，允许使用剑6；完成整篇并复盘细节匹配
+ 证据。
+CATEGORIES:Homework
 END:VEVENT
 BEGIN:VEVENT
 UID:a6b42bf3334def4d@ielts-german-plan.local
